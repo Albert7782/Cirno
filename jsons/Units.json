@@ -11,6 +11,5 @@
 		"cost": 100,
 		"requiredTech": "Archery",
 	        "promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
 	}
 ]
