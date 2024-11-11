@@ -11,7 +11,6 @@
 		"isNationalWonder": true,
 		"requiredBuildingInAllCities": "Colosseum",
 		"requiredTech": "Trapping"
-		] 
 	},
 	{
 		"name": "Waterway",
@@ -21,8 +20,7 @@
 		"hurryCostModifier": 160,
 		"happiness": 29,
 		"uniques": ["Did you know? When a new citizen is born, 40% of the food gets carried over! That's pretty interesting!"],
-		"requiredTech": "Engineering"
-		] 
+		"requiredTech": "Engineering" 
 	}, 
 	{
 		"name": "Strongest Library"
@@ -32,7 +30,6 @@
 		"science": 20,
 		"culture": 15,
 		"requiredTech": "Writing"
-		] 
 	},
 	{
                 "name": "Frozen Bazaar"
@@ -43,7 +40,6 @@
 		"gold": 50,
 		"merchantslot": 10,
 		"requiredTech": "Currency"
-		] 
         },
 	{ 
 		"name": "Frosty Fields" 
@@ -53,6 +49,5 @@
 		"food": 20,
 		"food": 5,
 		"requiredTech": "Pottery"
-		] 
-	{
+	} 
 ] 
