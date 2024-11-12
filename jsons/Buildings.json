@@ -95,7 +95,9 @@
     "requiredTech": "Drama and Poetry"
 },
 {
-    "name": "Shrine",
+    "name": "Cirno's Frosty Shrine",
+    "uniqueTo": "Ice Kingdom of Cirno"
+    "replaces": "Shrine"
     "faith": 3,
     "cost": 20,
     "maintenance": 1,
@@ -103,7 +105,9 @@
     "uniques": ["Only available <when religion is enabled>"]
 },
 {
-    "name": "Workshop",
+    "name": "Cirno's Frosty Workshop",
+    "uniqueTo": "Ice Kingdom of Cirno"
+    "replaces": "Workshop" 
     "maintenance": 2,
     "production": 6,
     "specialistSlots": {"Engineer": 3},
@@ -112,7 +116,9 @@
     "requiredTech": "Metal Casting"
 },
 {
-    "name": "Forge",
+    "name": "Cirno's Frosty Forge",
+    "uniqueTo": "Ice Kingdom of Cirno"
+    "replaces": "Forge" 
     "maintenance": 1,
     "hurryCostModifier": 25,
     "requiredNearbyImprovedResources": ["Iron"],
@@ -124,7 +130,9 @@
     ]
  },
  {
-    "name": "Temple",
+    "name": "Cirno's Frosty Temple",
+    "uniqueTo": "Ice Kingdom of Cirno"
+    "replaces": "Temple"
     "faith": 2,
     "requiredBuilding": "Shrine",
     "maintenance": 2,
@@ -136,7 +144,9 @@
     ]
   },
   {
-    "name": "Lighthouse",
+    "name": "Cirno's Frosty Lighthouse",
+    "uniqueTo": "Ice Kingdom of Cirno"
+    "replaces": "Lighthouse"
     "cost": 75,
     "hurryCostModifier": 25,
     "maintenance": 1,
