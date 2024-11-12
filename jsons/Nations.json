@@ -5,7 +5,7 @@
 		"adjective": "Fairy",
 		"startBias": ["Grassland"],
 		"preferredVictoryType": "Domination",
-		"image": "images/Ice Kingdom of Cirno .png",
+		"image": "images/Ice Kingdom of Cirno.png",
 		
 		"startIntroPart1": "I’m the strongest!!",
 		"startIntroPart2": "I’m Cirno, the ice fairy!",
@@ -31,10 +31,11 @@
 		"outerColor": [135, 206, 235],
 		"innerColor": [255, 255, 255],
 		"unique": [
-			"Gain production by cutting down forests", 
-			"[+25 Production]"
+			"Gain happiness and production from your cities", 
+			"[+10 Happiness]",
+			"[+5 Production]"
 		], 
-			
+		
 		"cities": ["Ice blue","Glaciara","Frigidalia","Snowstorm","Frostyvale","Heladia","Ice Rivers", "Cold Aurora", "Frosthaven", "Freezeport", "Borealis", 
 			"Snowland","Iceglow","Eternal Frost","Glaciopolis","Ice Star","Snowlet","Chilllight","Frost Tempest","Ice Peaks","Icebound","Snowcrystal","Frigoria","Frostlight","Glacialis","Ice Sun","Icy Aurora","Snowdrift","Crystalfreeze","Full Snow","Iceworld","Coolblue","Glaciartis","Fresh Snow"]
 	}
