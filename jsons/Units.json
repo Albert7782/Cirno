@@ -27,16 +27,15 @@
                 }
             },
             {
-                "name": "Frostbite",
-                "description": "Deals additional damage with each attack, slowing the enemy.",
+                "name": "City Raider I",
+                "description": "Increases damage when attacking cities.",
                 "effects": {
-                    "additionalDamage": 5,
-                    "slowEffect": true
+                    "cityAttackBonus": 15
                 }
             }
         ],
         "civilopediaText": [
-            { "text": "Cirno is the proud leader of the ice fairies, renowned for her prowess in ranged combat. With her magical bow, she fires icy projectiles that can slow down her enemies, making her a formidable opponent on the battlefield." }
+            { "text": "Cirno is the proud leader of the ice fairies, renowned for her prowess in ranged combat. With her magical bow, she fires icy projectiles that can slow down her enemies." }
         ]
     },
     {
@@ -60,15 +59,22 @@
                 }
             },
             {
-                "name": "Ice Shield",
-                "description": "Provides additional defense against enemy attacks.",
+                "name": "Defensive",
+                "description": "Increases defense when on the defensive.",
                 "effects": {
                     "defenseBonus": 3
+                }
+            },
+            {
+                "name": "Combat I",
+                "description": "Increases combat strength against land units.",
+                "effects": {
+                    "combatBonus": 10
                 }
             }
         ],
         "civilopediaText": [
-            { "text": "The 'Cirno fan' is a brave warrior wielding an enchanted sword. His loyalty to the Kingdom of Cirno is unwavering, and his ability to deal damage in melee makes him a valuable ally in battle." }
+            { "text": "The 'Cirno fan' is a brave warrior wielding an enchanted sword. His loyalty to the Kingdom of Cirno is unwavering, and his skills in melee combat are enhanced by his fierce spirit." }
         ]
     },
     {
@@ -85,23 +91,29 @@
         "requiredTech": "Iron Working",
         "promotions": [
             {
-                "name": "Frost Slash",
-                "description": "Deals additional damage to enemy units and may cause freezing.",
+                "name": "Shock",
+                "description": "Increases damage against units that are not in a defensive position.",
                 "effects": {
-                    "additionalDamage": 7,
-                    "freezeEffect": true
+                    "shockDamageBonus": 10
                 }
             },
             {
-                "name": "Defensive Stance",
-                "description": "Increases defense when in a defensive position.",
+                "name": "City Raider II",
+                "description": "Increases damage when attacking cities.",
                 "effects": {
-                    "defenseBonus": 5
+                    "cityAttackBonus": 25
+                }
+            },
+            {
+                "name": "Combat II",
+                "description": "Increases combat strength against land units.",
+                "effects": {
+                    "combatBonus": 20
                 }
             }
         ],
         "civilopediaText": [
-            { "text": "The 'Cirno fan plus' is an upgraded version of its predecessor, featuring advanced combat skills. Its 'Frost Slash' technique not only cuts but can also freeze enemies, making it a feared adversary in any clash." }
+            { "text": "The 'Cirno fan plus' is an upgraded version of its predecessor, featuring enhanced combat skills and a fierce determination in battle." }
         ]
     },
     {
@@ -119,7 +131,7 @@
         "promotions": [
             {
                 "name": "Ice Fury",
-                "description": "Increases damage on critical hits, dealing more damage to enemies.",
+                "description": "Increases damage on critical hits.",
                 "effects": {
                     "criticalDamageBonus": 10
                 }
@@ -130,10 +142,17 @@
                 "effects": {
                     "damageReduction": 2
                 }
+            },
+            {
+                "name": "Combat III",
+                "description": "Increases combat strength against land units.",
+                "effects": {
+                    "combatBonus": 30
+                }
             }
         ],
         "civilopediaText": [
-            { "text": "The 'Cirno fan plus ultra' is the pinnacle of combat unit evolution in the Ice Kingdom of Cirno. With devastating power in critical hits and remarkable durability, it is a true champion on the battlefield." }
+            { "text": "The 'Cirno fan plus ultra' is the pinnacle of combat unit evolution in the Ice Kingdom of Cirno, capable of devastating enemies with powerful strikes." }
         ]
     }
 ]
