@@ -1,46 +1,46 @@
 [
-	{
-		"name": "Ice Kingdom of Cirno",
-		"leaderName": "Cirno",
-		"adjective": "Fairy",
-		"startBias": ["Grassland"],
-		"preferredVictoryType": "Domination",
-		"image": "images/Ice Kingdom of Cirno.png",
-		
-		"startIntroPart1": "I’m the strongest!!",
-		"startIntroPart2": "I’m Cirno, the ice fairy!",
-		
-		"declaringWar": "I’m Cirno, the strongest, and I declare the Ice War! Let the frozen fun begin!",
-		"attacked": "Hey! That's not fair! Don't you dare challenge the strongest!",
-		"defeated": "No way! This isn't over! I'm going to train and come back stronger!",
-		"introduction": "Welcome to the Ice Kingdom! I'm Cirno, the strongest, and here, fun and snow never end. Get ready to play!",
-		
-		"neutralHello": "Hi! I'm Cirno. How are you?",
-		"neutralLetsHearIt": ["Alright, everyone! I'm curious to hear what you all think."],
-		"neutralNo": ["I don't care what you say! I'm the strongest and I'll always win!"],
-		"neutralYes": ["Alright, that sounds interesting."],
+    {
+        "name": "Ice Kingdom of Cirno",
+        "leaderName": "Cirno",
+        "adjective": "Fairy",
+        "startBias": ["Grassland"],
+        "preferredVictoryType": "Domination",
+        "image": "images/ice_kingdom.png",
+        
+        "startIntroPart1": "I’m the strongest!!",
+        "startIntroPart2": "I’m Cirno, the ice fairy!",
+        
+        "declaringWar": "I’m Cirno, the strongest, and I declare the Ice War! Let the frozen fun begin!",
+        "attacked": "Hey! That's not fair! Don't you dare challenge the strongest!",
+        "defeated": "No way! This isn't over! I'm going to train and come back stronger!",
+        "introduction": "Welcome to the Ice Kingdom! I'm Cirno, the strongest, and here, fun and snow never end. Get ready to play!",
+        
+        "neutralHello": "Hi! I'm Cirno. How are you?",
+        "neutralLetsHearIt": ["Alright, everyone! I'm curious to hear what you all think."],
+        "neutralNo": ["I don't care what you say! I'm the strongest and I'll always win!"],
+        "neutralYes": ["Alright, that sounds interesting."],
 
-		"hateHello": "Oh, look who showed up. You again? I don't have time for your nonsense.",
-		"hateLetsHearIt": ["Hate? Let's hear it! Tell me what you think!"],
-		"hateNo": ["No thanks. I'm not interested."],
-		"hateYes": ["Well, that sounds interesting. Tell me more."],
-		
-		"afterPeace": "Great! Now that there's peace we can have even more fun and play!",
-		"tradeRequest": "Hey! I’ll trade ice for your sweets Deal?",
+        "hateHello": "Oh, look who showed up. You again? I don't have time for your nonsense.",
+        "hateLetsHearIt": ["Hate? Let's hear it! Tell me what you think!"],
+        "hateNo": ["No thanks. I'm not interested."],
+        "hateYes": ["Well, that sounds interesting. Tell me more."],
+        
+        "afterPeace": "Great! Now that there's peace we can have even more fun and play!",
+        "tradeRequest": "Hey! I’ll trade ice for your sweets Deal?",
 
-		"outerColor": [135, 206, 235],
-		"innerColor": [255, 255, 255],
-		"unique": [
-			"Gain happiness and production from your cities", 
-			"[+10 Happiness]",
-			"[+5 Production]"
-		],
-		"cityBonuses": {
-			"happiness": 10,
-			"production": 5
-		},
-		
-		"cities": ["Ice blue","Glaciara","Frigidalia","Snowstorm","Frostyvale","Heladia","Ice Rivers", "Cold Aurora", "Frosthaven", "Freezeport", "Borealis", 
-			"Snowland","Iceglow","Eternal Frost","Glaciopolis","Ice Star","Snowlet","Chilllight","Frost Tempest","Ice Peaks","Icebound","Snowcrystal","Frigoria","Frostlight","Glacialis","Ice Sun","Icy Aurora","Snowdrift","Crystalfreeze","Full Snow","Iceworld","Coolblue","Glaciartis","Fresh Snow"]
-	}
+        "outerColor": [135, 206, 235],
+        "innerColor": [255, 255, 255],
+        "unique": [
+            "Gain happiness and production from your cities", 
+            "[+10 Happiness]",
+            "[+5 Production]"
+        ],
+        "cityBonuses": {
+            "happiness": 10,
+            "production": 5
+        },
+        
+        "cities": ["Ice blue","Glaciara","Frigidalia","Snowstorm","Frostyvale","Heladia","Ice Rivers", "Cold Aurora", "Frosthaven", "Freezeport", "Borealis", 
+            "Snowland","Iceglow","Eternal Frost","Glaciopolis","Ice Star","Snowlet","Chilllight","Frost Tempest","Ice Peaks","Icebound","Snowcrystal","Frigoria","Frostlight","Glacialis","Ice Sun","Icy Aurora","Snowdrift","Crystalfreeze","Full Snow","Iceworld","Coolblue","Glaciartis","Fresh Snow"]
+    }
 ]
