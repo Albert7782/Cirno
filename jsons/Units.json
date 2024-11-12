@@ -14,28 +14,19 @@
         "promotions": [
             {
                 "name": "Logistics",
-                "description": "Allows movement after attacking.",
-                "effects": {
-                    "moveAfterAttack": true
-                }
+                "description": "Allows movement after attacking."
             },
             {
                 "name": "Accuracy I",
-                "description": "Increases the accuracy of ranged attacks.",
-                "effects": {
-                    "rangedAccuracy": 10
-                }
+                "description": "Increases the accuracy of ranged attacks."
             },
             {
                 "name": "City Raider I",
-                "description": "Increases damage when attacking cities.",
-                "effects": {
-                    "cityAttackBonus": 15
-                }
+                "description": "Increases damage when attacking cities."
             }
         ],
         "civilopediaText": [
-            { "text": "Cirno is the proud leader of the ice fairies, renowned for her prowess in ranged combat. With her magical bow, she fires icy projectiles that can slow down her enemies." }
+            { "text": "Cirno is the proud leader of the ice fairies, renowned for her prowess in ranged combat." }
         ]
     },
     {
@@ -48,33 +39,23 @@
         "cost": 45,
         "upgradesTo": "Cirno fan plus",
         "uniques": ["Ice Kingdom of Cirno"],
-        "attackSound": "baka_baka_(M4A_128K).m4a",
         "requiredTech": "None",
         "promotions": [
             {
                 "name": "Berserker",
-                "description": "Increases damage in melee combat.",
-                "effects": {
-                    "meleeDamageBonus": 5
-                }
+                "description": "Increases damage in melee combat."
             },
             {
                 "name": "Defensive",
-                "description": "Increases defense when on the defensive.",
-                "effects": {
-                    "defenseBonus": 3
-                }
+                "description": "Increases defense when on the defensive."
             },
             {
                 "name": "Combat I",
-                "description": "Increases combat strength against land units.",
-                "effects": {
-                    "combatBonus": 10
-                }
+                "description": "Increases combat strength against land units."
             }
         ],
         "civilopediaText": [
-            { "text": "The 'Cirno fan' is a brave warrior wielding an enchanted sword. His loyalty to the Kingdom of Cirno is unwavering, and his skills in melee combat are enhanced by his fierce spirit." }
+            { "text": "The 'Cirno fan' is a brave warrior wielding an enchanted sword." }
         ]
     },
     {
@@ -87,33 +68,23 @@
         "cost": 50,
         "upgradesTo": "Cirno fan plus ultra",
         "uniques": ["Ice Kingdom of Cirno"],
-        "attackSound": "baka_baka_(M4A_128K).m4a",
         "requiredTech": "Iron Working",
         "promotions": [
             {
                 "name": "Shock",
-                "description": "Increases damage against units that are not in a defensive position.",
-                "effects": {
-                    "shockDamageBonus": 10
-                }
+                "description": "Increases damage against units that are not in a defensive position."
             },
             {
                 "name": "City Raider II",
-                "description": "Increases damage when attacking cities.",
-                "effects": {
-                    "cityAttackBonus": 25
-                }
+                "description": "Increases damage when attacking cities."
             },
             {
                 "name": "Combat II",
-                "description": "Increases combat strength against land units.",
-                "effects": {
-                    "combatBonus": 20
-                }
+                "description": "Increases combat strength against land units."
             }
         ],
         "civilopediaText": [
-            { "text": "The 'Cirno fan plus' is an upgraded version of its predecessor, featuring enhanced combat skills and a fierce determination in battle." }
+            { "text": "The 'Cirno fan plus' is an upgraded version of its predecessor, featuring enhanced combat skills." }
         ]
     },
     {
@@ -126,33 +97,23 @@
         "cost": 50,
         "upgradesTo": "Musketman",
         "uniques": ["Ice Kingdom of Cirno"],
-        "attackSound": "baka_baka_(M4A_128K).m4a",
         "requiredTech": "Steel",
         "promotions": [
             {
-                "name": "Ice Fury",
-                "description": "Increases damage on critical hits.",
-                "effects": {
-                    "criticalDamageBonus": 10
-                }
+                "name": "Combat III",
+                "description": "Increases combat strength against land units."
             },
             {
                 "name": "Unyielding",
-                "description": "Reduces damage taken in combat, improving survivability.",
-                "effects": {
-                    "damageReduction": 2
-                }
+                "description": "Reduces damage taken in combat."
             },
             {
-                "name": "Combat III",
-                "description": "Increases combat strength against land units.",
-                "effects": {
-                    "combatBonus": 30
-                }
+                "name": "City Raider III",
+                "description": "Increases damage when attacking cities."
             }
         ],
         "civilopediaText": [
-            { "text": "The 'Cirno fan plus ultra' is the pinnacle of combat unit evolution in the Ice Kingdom of Cirno, capable of devastating enemies with powerful strikes." }
+            { "text": "The 'Cirno fan plus ultra' is the pinnacle of combat unit evolution in the Ice Kingdom of Cirno." }
         ]
     }
 ]
