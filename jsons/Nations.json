@@ -4,7 +4,7 @@
         "leaderName": "Cirno",
         "adjective": "Ice Kingdom of Cirno",
         "startBias": ["Grassland"],
-        "preferredVictoryType": "Domination"
+        "preferredVictoryType": "Domination",
         
         "startIntroPart1": "I’m the strongest!!",
         "startIntroPart2": "I’m Cirno, the ice fairy!",
@@ -26,21 +26,24 @@
         
         "afterPeace": "Great! Now that there's peace we can have even more fun and play!",
         "tradeRequest": "Hey! I’ll trade ice for your sweets Deal?",
-
+        
         "outerColor": [135, 206, 235],
         "innerColor": [255, 255, 255],
-        "unique": [
-            "Gain happiness and production from your cities", 
-            "[+10 Happiness]",
-            "[+5 Production]"
+        "uniqueName": "Snow Queen" 
+        "uniques": [
+            "Can spend Gold to annex or puppet a City-State that has been your ally for [2] turns",
+            "Receive triple Gold from Barbarian encampments and pillaging Cities"
         ],
-        "uniqueText": "Cities in the Ice Kingdom provide extra happiness and production, fostering a joyful and industrious environment.",
-        "cityBonuses": {
-            "happiness": 10,
-            "production": 5
-        },
+        "uniqueText": "The Ice Kingdom of Cirno can strategically expand its influence and gain wealth from its victories against Barbarians.",
         
-        "cities": ["Ice blue","Glaciara","Frigidalia","Snowstorm","Frostyvale","Heladia","Ice Rivers", "Cold Aurora", "Frosthaven", "Freezeport", "Borealis", 
-            "Snowland","Iceglow","Eternal Frost","Glaciopolis","Ice Star","Snowlet","Chilllight","Frost Tempest","Ice Peaks","Icebound","Snowcrystal","Frigoria","Frostlight","Glacialis","Ice Sun","Icy Aurora","Snowdrift","Crystalfreeze","Full Snow","Iceworld","Coolblue","Glaciartis","Fresh Snow"]
+        "cities": [
+            "Ice blue", "Glaciara", "Frigidalia", "Snowstorm", "Frostyvale", "Heladia", 
+            "Ice Rivers", "Cold Aurora", "Frosthaven", "Freezeport", "Borealis", 
+            "Snowland", "Iceglow", "Eternal Frost", "Glaciopolis", "Ice Star", 
+            "Snowlet", "Chilllight", "Frost Tempest", "Ice Peaks", "Icebound", 
+            "Snowcrystal", "Frigoria", "Frostlight", "Glacialis", "Ice Sun", 
+            "Icy Aurora", "Snowdrift", "Crystalfreeze", "Full Snow", "Iceworld", 
+            "Coolblue", "Glaciartis", "Fresh Snow"
+        ]
     }
 ]
