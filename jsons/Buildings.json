@@ -25,4 +25,54 @@
     "maintenance": 1,
     "uniques": ["[+1 Science] per [2] population [in this city]"],
     "requiredTech": "Writing"
+},
+{
+    "name": "Monument",
+    "culture": 2,
+    "cost": 40,
+    "hurryCostModifier": 40,
+    "maintenance": 1,
+    "uniques": ["Destroyed when the city is captured"]  
+},
+{
+    "name": "Barracks",
+    "hurryCostModifier": 25,
+    "maintenance": 1,
+    "uniques": ["New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured"],
+    "requiredTech": "Bronze Working"
+},
+{
+    "name": "Circus",
+    "requiredNearbyImprovedResources": ["Ivory", "Horses"],
+    "happiness": 2,
+    "hurryCostModifier": 25,
+    "requiredTech": "Trapping"
+},
+{
+    "name": "Colosseum",
+    "happiness": 3,
+    "hurryCostModifier": 25,
+    "maintenance": 2,
+    "requiredTech": "Construction"
+},
+{
+    "name": "Aqueduct",
+    "hurryCostModifier": 25,
+    "maintenance": 1,
+    "uniques": ["Allows cities to grow beyond [Size 6]"],
+    "requiredTech": "Construction"
+}, 
+{
+    "name": "Amphitheater",
+    "happiness": 2,
+    "hurryCostModifier": 25,
+    "maintenance": 2,
+    "requiredTech": "Drama"
 }
+] 
+
+
+
+
+
+   
