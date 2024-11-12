@@ -21,8 +21,8 @@
                 "description": "Increases the accuracy of ranged attacks."
             },
             {
-                "name": "City Raider I",
-                "description": "Increases damage when attacking cities."
+                "name": "Drill I",
+                "description": "Increases defensive strength."
             }
         ],
         "civilopediaText": [
@@ -42,16 +42,16 @@
         "requiredTech": "None",
         "promotions": [
             {
-                "name": "Berserker",
-                "description": "Increases damage in melee combat."
+                "name": "Combat I",
+                "description": "Increases combat strength against land units."
             },
             {
                 "name": "Defensive",
                 "description": "Increases defense when on the defensive."
             },
             {
-                "name": "Combat I",
-                "description": "Increases combat strength against land units."
+                "name": "Drill I",
+                "description": "Increases defensive strength."
             }
         ],
         "civilopediaText": [
@@ -75,12 +75,12 @@
                 "description": "Increases damage against units that are not in a defensive position."
             },
             {
-                "name": "City Raider II",
-                "description": "Increases damage when attacking cities."
-            },
-            {
                 "name": "Combat II",
                 "description": "Increases combat strength against land units."
+            },
+            {
+                "name": "Drill II",
+                "description": "Increases defensive strength."
             }
         ],
         "civilopediaText": [
@@ -104,12 +104,12 @@
                 "description": "Increases combat strength against land units."
             },
             {
-                "name": "Unyielding",
-                "description": "Reduces damage taken in combat."
+                "name": "Drill III",
+                "description": "Increases defensive strength."
             },
             {
-                "name": "City Raider III",
-                "description": "Increases damage when attacking cities."
+                "name": "Cover",
+                "description": "Increased defense when in a defensive position."
             }
         ],
         "civilopediaText": [
