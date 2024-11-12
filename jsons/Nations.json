@@ -34,7 +34,6 @@
             "Can spend Gold to annex or puppet a City-State that has been your ally for [5] turns",
             "Receive triple Gold from Barbarian encampments and pillaging Cities"
         ],
-        "uniqueText": "The Ice Kingdom of Cirno can strategically expand its influence and gain wealth from its victories against Barbarians.",
         
         "cities": [
             "Ice blue", "Glaciara", "Frigidalia", "Snowstorm", "Frostyvale", "Heladia", 
