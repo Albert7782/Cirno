@@ -101,7 +101,17 @@
     "maintenance": 1,
     "requiredTech": "Pottery",
     "uniques": ["Only available <when religion is enabled>"]
+},
+{
+    "name": "Workshop",
+    "maintenance": 2,
+    "production": 6,
+    "specialistSlots": {"Engineer": 3},
+    "hurryCostModifier": 25,
+    "percentStatBonus": {"production": 30},
+    "requiredTech": "Metal Casting"
 }
+ 
 
 
 
