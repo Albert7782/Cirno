@@ -7,14 +7,14 @@ repeat: none
 NationIcons/game
   rotate: false
   xy: 4, 4
-  size: 100, 100
+  size: 736, 641
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Cirno
   rotate: false
   xy: 328, 4
-  size: 100, 100
+  size: 200, 236
   orig: 100, 100
   offset: 0, 0
   index: -1
