@@ -34,7 +34,11 @@
 			"Gain happiness and production from your cities", 
 			"[+10 Happiness]",
 			"[+5 Production]"
-		], 
+		],
+		"cityBonuses": {
+			"happiness": 10,
+			"production": 5
+		},
 		
 		"cities": ["Ice blue","Glaciara","Frigidalia","Snowstorm","Frostyvale","Heladia","Ice Rivers", "Cold Aurora", "Frosthaven", "Freezeport", "Borealis", 
 			"Snowland","Iceglow","Eternal Frost","Glaciopolis","Ice Star","Snowlet","Chilllight","Frost Tempest","Ice Peaks","Icebound","Snowcrystal","Frigoria","Frostlight","Glacialis","Ice Sun","Icy Aurora","Snowdrift","Crystalfreeze","Full Snow","Iceworld","Coolblue","Glaciartis","Fresh Snow"]
