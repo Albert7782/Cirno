@@ -5,6 +5,7 @@
 		"adjective": "Fairy",
 		"startBias": ["Grassland"],
 		"preferredVictoryType": "Domination",
+		"image": "images/ice_kingdom_cirno .png",  // 
 		
 		"startIntroPart1": "I’m the strongest!!",
 		"startIntroPart2": "I’m Cirno, the ice fairy!",
