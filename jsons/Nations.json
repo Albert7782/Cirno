@@ -4,8 +4,7 @@
         "leaderName": "Cirno",
         "adjective": "Ice Kingdom of Cirno",
         "startBias": ["Grassland"],
-        "preferredVictoryType": "Domination",
-        "image": "images/ice_kingdom.png",
+        "preferredVictoryType": "Domination"
         
         "startIntroPart1": "I’m the strongest!!",
         "startIntroPart2": "I’m Cirno, the ice fairy!",
