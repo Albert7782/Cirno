@@ -2,7 +2,7 @@
     {
         "name": "Ice Kingdom of Cirno",
         "leaderName": "Cirno",
-        "adjective": "Fairy",
+        "adjective": "Ice Kingdom of Cirno",
         "startBias": ["Grassland"],
         "preferredVictoryType": "Domination",
         "image": "images/ice_kingdom.png",
