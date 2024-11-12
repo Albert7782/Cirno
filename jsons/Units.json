@@ -1,4 +1,4 @@
-[
+        [
 	{
 		"name": "Cirno",
 		"unitType": "Ranged",
@@ -12,4 +12,4 @@
 		"requiredTech": "Archery",
 	        "promotions": ["Logistics","Accuracy I"],
 	}
-]
+        ]
