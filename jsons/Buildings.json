@@ -1,4 +1,4 @@
-[
+        [
 	{
 		"name": "The Circus of Heaven ",
 		"replaces": "Circus Maximus",
@@ -50,4 +50,4 @@
 		"food": 5,
 		"requiredTech": "Pottery"
 	} 
-] 
+        ] 
