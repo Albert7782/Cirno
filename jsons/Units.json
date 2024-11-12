@@ -39,6 +39,7 @@
         "upgradesTo": "Cirno fan plus ultra",
         "uniques": ["Ice Kingdom of Cirno"],
         "attackSound": "baka_baka_(M4A_128K).m4a",
+        "requiredTech": "Iron Working"
         "civilopediaText": [
             { "text": "Fan more baka" }
         ]
@@ -54,6 +55,7 @@
         "upgradesTo": "Musketman",
         "uniques": ["Ice Kingdom of Cirno"],
         "attackSound": "baka_baka_(M4A_128K).m4a",
+        "requiredTech": "Steel" 
         "civilopediaText": [
             { "text": "Cirno accessed your mind" }
         ]
