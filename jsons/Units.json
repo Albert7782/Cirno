@@ -11,6 +11,9 @@
         "cost": 25,
         "attackSound": "baka_baka_(M4A_128K).m4a",
         "requiredTech": "Archery",
+        "uniques": [
+            "[+33]% Strength <vs [Barbarian] units>"
+        ],
         "civilopediaText": [
             { "text": "Cirno is the proud leader of the ice fairies, renowned for her prowess in ranged combat." }
         ]
@@ -24,7 +27,9 @@
         "replaces": "Warrior",
         "cost": 45,
         "upgradesTo": "Cirno fan plus",
-        "uniques": ["Ice Kingdom of Cirno"],
+        "uniques": [
+            "[+33]% Strength <vs [Barbarian] units>"
+        ],
         "civilopediaText": [
             { "text": "The 'Cirno fan' is a brave warrior wielding an enchanted sword." }
         ]
@@ -38,7 +43,9 @@
         "replaces": "Swordsman",
         "cost": 50,
         "upgradesTo": "Cirno fan plus ultra",
-        "uniques": ["Ice Kingdom of Cirno"],
+        "uniques": [
+            "[+33]% Strength <vs [Barbarian] units>"
+        ],
         "requiredTech": "Iron Working",
         "civilopediaText": [
             { "text": "The 'Cirno fan plus' is an upgraded version of its predecessor, featuring enhanced combat skills." }
@@ -53,7 +60,9 @@
         "replaces": "Longswordsman",
         "cost": 50,
         "upgradesTo": "Musketman",
-        "uniques": ["Ice Kingdom of Cirno"],
+        "uniques": [
+            "[+33]% Strength <vs [Barbarian] units>"
+        ],
         "requiredTech": "Steel",
         "civilopediaText": [
             { "text": "The 'Cirno fan plus ultra' is the pinnacle of combat unit evolution in the Ice Kingdom of Cirno." }
@@ -66,7 +75,6 @@
         "cost": 50,
         "uniqueTo": "Ice Kingdom of Cirno",
         "replaces": "Worker",
-        "requiredTech": "Mining",
         "uniques": [
             "Can build [Land] improvements on tiles",
             "Automation is a primary action",
