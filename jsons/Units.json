@@ -67,8 +67,8 @@
         "uniqueTo": "Ice Kingdom of Cirno",
         "replaces": "Worker",
         "uniques": [
-            "-25% construction time for all improvements.",
-            "Can build land improvements on tiles."
+            "-25% construction time for all improvements",
+            "Can build land improvements on tiles"
         ],
         "civilopediaText": [
             { "text": "The 'Cirno Worker' is skilled in gathering resources and constructing buildings for the Ice Kingdom." }
