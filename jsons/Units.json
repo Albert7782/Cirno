@@ -12,5 +12,20 @@
 		"attackSound": "baka_baka_(M4A_128K).m4a",
 		"requiredTech": "Archery",
 	        "promotions": ["Logistics","Accuracy I"],
-	}
-        ]
+	
+	        "name": "",
+                "unitType": "Sword",
+                "movement": ,
+                "strength": ,
+                "uniqueTo": "",
+                "replaces": "Warrior",
+                "cost": 40,
+                "obsoleteTech": "Metal Casting",
+                "upgradesTo": "",
+                "uniques": [ "" ],
+                "attackSound": "",
+                "civilopediaText": [
+                "text": "" }
+]
+}
+  §
