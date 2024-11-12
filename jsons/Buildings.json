@@ -47,6 +47,7 @@
     "name": "Cirno's Frosty Barracks",
     "uniqueTo": "Ice Kingdom of Cirno" 
     "hurryCostModifier": 25,
+    "cost": 37,
     "replaces": "Barracks" 
     "maintenance": 1,
     "uniques": ["New [Military] units start with [45] Experience [in this city]", "Destroyed when the city is captured"],
@@ -57,6 +58,7 @@
     "uniqueTo": "Ice Kingdom of Cirno" 
     "requiredNearbyImprovedResources": ["Ivory", "Horses"],
     "happiness": 6,
+    "cost": 37,
     "hurryCostModifier": 25,
     "replaces": "Circus" 
     "requiredTech": "Trapping"
@@ -65,6 +67,7 @@
     "name": "Cirno's Frosty Colosseum",
     "uniqueTo": "Ice Kingdom of Cirno" 
     "happiness": 9,
+    "cost": 50,
     "hurryCostModifier": 25,
     "replaces": "Colosseum" 
     "maintenance": 2,
@@ -72,7 +75,8 @@
 },
 {
     "name": "Cirno's Frosty Aqueduct",
-    "uniqueTo": "Ice Kingdom of Cirno" 
+    "uniqueTo": "Ice Kingdom of Cirno"
+    "cost": 50,
     "hurryCostModifier": 25,
     "replaces": "Aqueduct" 
     "maintenance": 1,
@@ -81,14 +85,25 @@
 }, 
 {
     "name": "Cirno's Frosty Amphitheater",
-    "uniqueTo": "Ice Kingdom of Cirno" 
-    "happiness": 6,
+    "uniqueTo": "Ice Kingdom of Cirno"
+    "culture": 6,
+    "specialistSlots": {"Artist": 3},
+    "cost" 50,
     "hurryCostModifier": 25,
     "replaces": "Amphitheater" 
     "maintenance": 2,
     "requiredTech": "Drama and Poetry"
+},
+{
+    "name": "Shrine",
+    "faith": 3,
+    "cost": 20,
+    "maintenance": 1,
+    "requiredTech": "Pottery",
+    "uniques": ["Only available <when religion is enabled>"]
 }
-] 
+
+
 
 
 
