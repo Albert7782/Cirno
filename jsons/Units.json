@@ -12,8 +12,6 @@
 		"attackSound": "baka_baka_(M4A_128K).m4a",
 		"requiredTech": "Archery",
 	        "promotions": ["Logistics","Accuracy I"],
-	] 
-	
 	},
         {	
 	        "name": "Cirno fan",
@@ -28,8 +26,6 @@
                 "attackSound": "baka_baka_(M4A_128K).m4a",
                 "civilopediaText": [
               {  "text": "Silly fan" }
-	]
-
         },
         {
 		"name": "Cirno fan plus",
@@ -44,9 +40,6 @@
                 "attackSound": "baka_baka_(M4A_128K).m4a",
                 "civilopediaText": [
               { "text": "Fan more baka" }
-        ]
-
-
 	},
         {
                 "name": "Cirno fan plus ultra",
