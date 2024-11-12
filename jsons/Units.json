@@ -26,7 +26,8 @@
         "attackSound": "baka_baka_(M4A_128K).m4a",
         "civilopediaText": [
             { "text": "Silly fan" }
-        ]
+        ],
+        "requiredTech": "None"
     },
     {
         "name": "Cirno fan plus",
