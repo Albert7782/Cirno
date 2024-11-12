@@ -3,7 +3,7 @@
 		"name": "The Circus of Heaven ",
 		"replaces": "Circus Maximus",
 		"uniqueTo": "Ice Kingdom of Cirno ",
-		"cost": 120,
+		"cost": 100,
 		"happiness": 19,
 		"culture": 20,
 		"science": 2,
@@ -19,7 +19,7 @@
 		"cost": 40,
 		"maintenance": 1,
 		"hurryCostModifier": 160,
-		"happiness": 29,
+		"happiness": 30,
 		"uniques": ["Did you know? When a new citizen is born, 40% of the food gets carried over! That's pretty interesting!"],
 		"requiredTech": "Engineering" 
 	}, 
@@ -27,7 +27,7 @@
 		"name": "Strongest Library"
 		"replaces": "Library"
 		"uniqueTo": "Ice Kingdom of Cirno",
-		"cost": 100,
+		"cost": 20,
 		"maintenance": 1,
 		"science": 20,
 		"culture": 15,
@@ -37,7 +37,7 @@
                 "name": "Frozen Bazaar"
 		"replaces": "Market"
 		"uniqueTo": "Ice Kingdom of Cirno",
-		"cost": 120,
+		"cost": 40,
 		"maintenance": 1,
 		"gold": 20,
 		"Happiness": 10,
@@ -48,7 +48,7 @@
 		"name": "Frosty Fields" 
 		"replaces": "Granary"
 		"uniqueTo": "Ice Kingdom of Cirno"
-		"cost": 160,
+		"cost": 60,
 		"maintenance": 1,
 		"food": 20,
 		"Production": 5,
