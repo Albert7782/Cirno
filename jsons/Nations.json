@@ -27,8 +27,8 @@
         "afterPeace": "Great! Now that there's peace we can have even more fun and play!",
         "tradeRequest": "Hey! I’ll trade ice for your sweets Deal?",
         
-        "outerColor": [135, 206, 235],
-        "innerColor": [255, 255, 255],
+        "outerColor": [101,154,176],
+        "innerColor": [255,255,255],
         "uniqueName": "Snow Queen" 
         "uniques": [
             "Can spend Gold to annex or puppet a City-State that has been your ally for [5] turns",
