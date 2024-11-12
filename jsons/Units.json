@@ -24,8 +24,7 @@
         "replaces": "Warrior",
         "cost": 45,
         "upgradesTo": "Cirno fan plus",
-        "uniques": ["Ice Kingdom of Cirno"],
-        "requiredTech": "None",
+        "uniques": ["Ice Kingdom of Cirno"], 
         "civilopediaText": [
             { "text": "The 'Cirno fan' is a brave warrior wielding an enchanted sword." }
         ]
@@ -62,7 +61,7 @@
     },
     {
         "name": "Cirno Worker",
-        "unitType": "Worker",
+        "unitType": "Civilian",
         "movement": 3,
         "cost": 50,
         "uniqueTo": "Ice Kingdom of Cirno",
