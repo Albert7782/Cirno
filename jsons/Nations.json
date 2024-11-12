@@ -35,6 +35,7 @@
             "[+10 Happiness]",
             "[+5 Production]"
         ],
+        "uniqueText": "Cities in the Ice Kingdom provide extra happiness and production, fostering a joyful and industrious environment.",
         "cityBonuses": {
             "happiness": 10,
             "production": 5
