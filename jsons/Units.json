@@ -9,6 +9,7 @@
 		"rangedStrength": 63,
 		"range": 6,
 		"cost": 100,
+		"attackSound": "baka_baka_(M4A_128K).m4a",
 		"requiredTech": "Archery",
 	        "promotions": ["Logistics","Accuracy I"],
 	}
