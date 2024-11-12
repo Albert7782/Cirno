@@ -20,14 +20,14 @@
     "requiredTech": "Pottery"
 },
 {
-    "name": "Library",
+    "name": "Cirno's Frosty Library",
     "hurryCostModifier": 25,
     "maintenance": 1,
     "uniques": ["[+1 Science] per [2] population [in this city]"],
     "requiredTech": "Writing"
 },
 {
-    "name": "Monument",
+    "name": "Cirno's Frosty Monument",
     "culture": 2,
     "cost": 40,
     "hurryCostModifier": 40,
@@ -35,35 +35,35 @@
     "uniques": ["Destroyed when the city is captured"]  
 },
 {
-    "name": "Barracks",
+    "name": "Cirno's Frosty Barracks",
     "hurryCostModifier": 25,
     "maintenance": 1,
     "uniques": ["New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured"],
     "requiredTech": "Bronze Working"
 },
 {
-    "name": "Circus",
+    "name": "Cirno's Frosty Circus",
     "requiredNearbyImprovedResources": ["Ivory", "Horses"],
     "happiness": 2,
     "hurryCostModifier": 25,
     "requiredTech": "Trapping"
 },
 {
-    "name": "Colosseum",
+    "name": "Cirno's Frosty Colosseum",
     "happiness": 3,
     "hurryCostModifier": 25,
     "maintenance": 2,
     "requiredTech": "Construction"
 },
 {
-    "name": "Aqueduct",
+    "name": "Cirno's Frosty Aqueduct",
     "hurryCostModifier": 25,
     "maintenance": 1,
     "uniques": ["Allows cities to grow beyond [Size 6]"],
     "requiredTech": "Construction"
 }, 
 {
-    "name": "Amphitheater",
+    "name": "Cirno's Frosty Amphitheater",
     "happiness": 2,
     "hurryCostModifier": 25,
     "maintenance": 2,
