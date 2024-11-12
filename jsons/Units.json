@@ -51,7 +51,7 @@
         "uniqueTo": "Ice Kingdom of Cirno",
         "replaces": "Longswordsman",
         "cost": 60,
-        "upgradesTo": "Cirno fan plus ultra max",
+        "upgradesTo": "Musketman",
         "uniques": ["Ice Kingdom of Cirno"],
         "attackSound": "baka_baka_(M4A_128K).m4a",
         "civilopediaText": [
