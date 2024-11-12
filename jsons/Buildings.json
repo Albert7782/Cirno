@@ -5,6 +5,7 @@
     "specialistSlots": { "Merchant": 3 },
     "hurryCostModifier": 25,
     "percentStatBonus": { "gold": 75 },
+    "replaces": "Market" 
     "requiredTech": "Currency"
    },
     {
@@ -12,6 +13,7 @@
     "food": 6,
     "maintenance": 1,
     "hurryCostModifier": 25,
+    "replaces": "Granary" 
     "uniques": [
         "[+3 Food] from [Deer] tiles [in this city]",
         "[+3 Food] from [Bananas] tiles [in this city]",
@@ -23,6 +25,7 @@
 {
     "name": "Cirno's Frosty Library",
     "hurryCostModifier": 25,
+    "replaces": "Library" 
     "maintenance": 1,
     "uniques": ["[+6 Science] per [6] population [in this city]"],
     "requiredTech": "Writing"
@@ -32,12 +35,14 @@
     "culture": 6,
     "cost": 40,
     "hurryCostModifier": 40,
+    "replaces": "Monument" 
     "maintenance": 1,
     "uniques": ["Destroyed when the city is captured"]  
 },
 {
     "name": "Cirno's Frosty Barracks",
     "hurryCostModifier": 25,
+    "replaces": "Barracks" 
     "maintenance": 1,
     "uniques": ["New [Military] units start with [45] Experience [in this city]", "Destroyed when the city is captured"],
     "requiredTech": "Bronze Working"
@@ -47,18 +52,21 @@
     "requiredNearbyImprovedResources": ["Ivory", "Horses"],
     "happiness": 6,
     "hurryCostModifier": 25,
+    "replaces": "Circus" 
     "requiredTech": "Trapping"
 },
 {
     "name": "Cirno's Frosty Colosseum",
     "happiness": 9,
     "hurryCostModifier": 25,
+    "replaces": "Colosseum" 
     "maintenance": 2,
     "requiredTech": "Construction"
 },
 {
     "name": "Cirno's Frosty Aqueduct",
     "hurryCostModifier": 25,
+    "replaces": "Aqueduct" 
     "maintenance": 1,
     "uniques": ["Allows cities to grow beyond [Size 6]"],
     "requiredTech": "Construction"
@@ -67,6 +75,7 @@
     "name": "Cirno's Frosty Amphitheater",
     "happiness": 6,
     "hurryCostModifier": 25,
+    "replaces": "Amphitheater" 
     "maintenance": 2,
     "requiredTech": "Drama"
 }
