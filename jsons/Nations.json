@@ -29,9 +29,15 @@
 
 		"outerColor": [135, 206, 235],
 		"innerColor": [255, 255, 255],
-		"unique": "STRONG_DESTINY",
+		"unique": [
+			"Gain production by cutting down forests", 
+			"[+25 Production]"
+		], 
+			
 		"cities": ["Ice blue","Glaciara","Frigidalia","Snowstorm","Frostyvale","Heladia","Ice Rivers", "Cold Aurora", "Frosthaven", "Freezeport", "Borealis", 
-			"Snowland","Iceglow","Eternal Frost","Glaciopolis","Ice Star","Snowlet","Chilllight","Frost Tempest","Ice Peaks","Icebound","Snowcrystal","Frigoria","Frostlight","Glacialis","Ice Sun","Icy Aurora","Snowdrift","Crystalfreeze","Full Snow","Iceworld","Coolblue","Glaciartis","Fresh Snow"
+			"Snowland","Iceglow","Eternal Frost","Glaciopolis","Ice Star","Snowlet","Chilllight","Frost Tempest","Ice Peaks","Icebound","Snowcrystal","Frigoria","Frostlight","Glacialis","Ice Sun","Icy Aurora","Snowdrift","Crystalfreeze","Full Snow","Iceworld","Coolblue","Glaciartis","Fresh Snow"]
 	
+
+	} 
 	]
 		
