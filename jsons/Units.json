@@ -24,7 +24,8 @@
         "replaces": "Warrior",
         "cost": 45,
         "upgradesTo": "Cirno fan plus",
-        "uniques": ["Ice Kingdom of Cirno"]
+        "uniques": ["Ice Kingdom of Cirno"],
+        "requiredTech": "None",
         "civilopediaText": [
             { "text": "The 'Cirno fan' is a brave warrior wielding an enchanted sword." }
         ]
@@ -58,5 +59,20 @@
         "civilopediaText": [
             { "text": "The 'Cirno fan plus ultra' is the pinnacle of combat unit evolution in the Ice Kingdom of Cirno." }
         ]
+    },
+    {
+        "name": "Cirno Worker",
+        "unitType": "Worker",
+        "movement": 3,
+        "cost": 50,
+        "uniqueTo": "Ice Kingdom of Cirno",
+        "replaces": "Worker",
+        "civilopediaText": [
+            { "text": "The 'Cirno Worker' is skilled in gathering resources and constructing buildings for the Ice Kingdom." }
+        ],
+        "specialAbility": {
+            "name": "Efficient Builder",
+            "description": "-25% construction time for all improvements."
+        }
     }
 ]
