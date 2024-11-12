@@ -61,7 +61,7 @@
     },
     {
         "name": "Cirno Worker",
-        "unitType": "Worker",
+        "unitType": "Civilian",
         "movement": 2,
         "cost": 50,
         "uniqueTo": "Ice Kingdom of Cirno",
