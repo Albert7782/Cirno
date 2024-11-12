@@ -66,9 +66,11 @@
         "cost": 50,
         "uniqueTo": "Ice Kingdom of Cirno",
         "replaces": "Worker",
+        "requiredTech": "Mining",
         "uniques": [
-            "-25% construction time for all improvements",
-            "Can build land improvements on tiles"
+            "Can build [Land] improvements on tiles",
+            "Automation is a primary action",
+            "-25% construction time for [All] improvements"
         ],
         "civilopediaText": [
             { "text": "The 'Cirno Worker' is skilled in gathering resources and constructing buildings for the Ice Kingdom." }
