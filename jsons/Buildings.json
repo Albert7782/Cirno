@@ -118,22 +118,24 @@
 {
     "name": "Cirno's Frosty Forge",
     "uniqueTo": "Ice Kingdom of Cirno"
-    "replaces": "Forge" 
+    "replaces": "Forge"
+    "cost": 60,
     "maintenance": 1,
     "hurryCostModifier": 25,
     "requiredNearbyImprovedResources": ["Iron"],
     "requiredTech": "Metal Casting",
     "uniques": [
-        "[+15]% Production when constructing [Spaceship part] units [in this city]",
-        "[+15]% Production when constructing [Land] units [in this city]",
-        "[+1 Production] from [Iron] tiles [in this city]"
+        "[+45]% Production when constructing [Spaceship part] units [in this city]",
+        "[+40]% Production when constructing [Land] units [in this city]",
+        "[+6 Production] from [Iron] tiles [in this city]"
     ]
  },
  {
     "name": "Cirno's Frosty Temple",
     "uniqueTo": "Ice Kingdom of Cirno"
     "replaces": "Temple"
-    "faith": 2,
+    "faith": 6,
+    "cost": 50,
     "requiredBuilding": "Shrine",
     "maintenance": 2,
     "hurryCostModifier": 25,
@@ -152,9 +154,10 @@
     "maintenance": 1,
     "uniques": [
         "Must be next to [Coast]",
-        "[+1 Food] from [Ocean] tiles [in this city]",
-        "[+1 Food] from [Coast] tiles [in this city]",
-        "[+1 Food] from [Fish] tiles [in this city]"
+        "[+3 Food] from [Ocean] tiles [in this city]",
+        "[+3 Food] from [Coast] tiles [in this city]",
+        "[+4 Food] from [Fish] tiles [in this city]",
+        "[+3 Gold] from [Pearls] tiles [in this city]"
     ],
     "requiredTech": "Optics"
   }
