@@ -86,7 +86,7 @@
     "hurryCostModifier": 25,
     "replaces": "Amphitheater" 
     "maintenance": 2,
-    "requiredTech": "Drama"
+    "requiredTech": "Drama and Poetry"
 }
 ] 
 
