@@ -1,6 +1,7 @@
 [
    {
     "name": "Cirno's Frosty Market",
+    "uniqueTo": "Ice Kingdom of Cirno" 
     "gold": 6,
     "specialistSlots": { "Merchant": 3 },
     "hurryCostModifier": 25,
@@ -10,6 +11,7 @@
    },
     {
     "name": "Cirno's Frosty Granary",
+    "uniqueTo": "Ice Kingdom of Cirno" 
     "food": 6,
     "maintenance": 1,
     "hurryCostModifier": 25,
@@ -24,6 +26,7 @@
 },
 {
     "name": "Cirno's Frosty Library",
+    "uniqueTo": "Ice Kingdom of Cirno" 
     "hurryCostModifier": 25,
     "replaces": "Library" 
     "maintenance": 1,
@@ -32,6 +35,7 @@
 },
 {
     "name": "Cirno's Frosty Monument",
+    "uniqueTo": "Ice Kingdom of Cirno" 
     "culture": 6,
     "cost": 40,
     "hurryCostModifier": 40,
@@ -41,6 +45,7 @@
 },
 {
     "name": "Cirno's Frosty Barracks",
+    "uniqueTo": "Ice Kingdom of Cirno" 
     "hurryCostModifier": 25,
     "replaces": "Barracks" 
     "maintenance": 1,
@@ -49,6 +54,7 @@
 },
 {
     "name": "Cirno's Frosty Circus",
+    "uniqueTo": "Ice Kingdom of Cirno" 
     "requiredNearbyImprovedResources": ["Ivory", "Horses"],
     "happiness": 6,
     "hurryCostModifier": 25,
@@ -57,6 +63,7 @@
 },
 {
     "name": "Cirno's Frosty Colosseum",
+    "uniqueTo": "Ice Kingdom of Cirno" 
     "happiness": 9,
     "hurryCostModifier": 25,
     "replaces": "Colosseum" 
@@ -65,6 +72,7 @@
 },
 {
     "name": "Cirno's Frosty Aqueduct",
+    "uniqueTo": "Ice Kingdom of Cirno" 
     "hurryCostModifier": 25,
     "replaces": "Aqueduct" 
     "maintenance": 1,
@@ -73,6 +81,7 @@
 }, 
 {
     "name": "Cirno's Frosty Amphitheater",
+    "uniqueTo": "Ice Kingdom of Cirno" 
     "happiness": 6,
     "hurryCostModifier": 25,
     "replaces": "Amphitheater" 
