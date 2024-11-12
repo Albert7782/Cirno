@@ -1,57 +1,28 @@
 [
+   {
+    "name": "Market",
+    "gold": 2,
+    "specialistSlots": { "Merchant": 1 },
+    "hurryCostModifier": 25,
+    "percentStatBonus": { "gold": 25 },
+    "requiredTech": "Currency"
+   },
     {
-        "name": "The Circus of Heaven",
-        "replaces": "Circus Maximus",
-        "uniqueTo": "Ice Kingdom of Cirno",
-        "cost": 40,
-        "happiness": 3,
-        "culture": 6,
-        "science": 2,
-        "maintenance": 2,
-        "isNationalWonder": true,
-        "requiredBuildingInAllCities": "Colosseum",
-        "requiredTech": "Trapping"
-    },
-    {
-        "name": "Waterway",
-        "replaces": "Aqueduct",
-        "uniqueTo": "Ice Kingdom of Cirno",
-        "cost": 55,
-        "maintenance": 1,
-        "hurryCostModifier": 140,
-        "happiness": 20,
-        "uniques": ["Did you know? When a new citizen is born, 40% of the food gets carried over! That's pretty interesting!"],
-        "requiredTech": "Engineering"
-    },
-    {
-        "name": "Strongest Library",
-        "replaces": "Library",
-        "uniqueTo": "Ice Kingdom of Cirno",
-        "cost": 37,
-        "maintenance": 1,
-        "science": 20,
-        "culture": 10,
-        "requiredTech": "Writing"
-    },
-    {
-        "name": "Frozen Bazaar",
-        "replaces": "Market",
-        "uniqueTo": "Ice Kingdom of Cirno",
-        "cost": 50,
-        "maintenance": 1,
-        "gold": 20,
-        "happiness": 8,
-        "merchantslot": 10,
-        "requiredTech": "Currency"
-    },
-    {
-        "name": "Frosty Fields",
-        "replaces": "Granary",
-        "uniqueTo": "Ice Kingdom of Cirno",
-        "cost": 30,
-        "maintenance": 1,
-        "food": 20,
-        "production": 8,
-        "requiredTech": "Pottery"
-    }
-]
+    "name": "Granary",
+    "food": 2,
+    "maintenance": 1,
+    "hurryCostModifier": 25,
+    "uniques": [
+        "[+1 Food] from [Deer] tiles [in this city]",
+        "[+1 Food] from [Bananas] tiles [in this city]",
+        "[+1 Food] from [Wheat] tiles [in this city]"
+    ],
+    "requiredTech": "Pottery"
+},
+{
+    "name": "Library",
+    "hurryCostModifier": 25,
+    "maintenance": 1,
+    "uniques": ["[+1 Science] per [2] population [in this city]"],
+    "requiredTech": "Writing"
+}
