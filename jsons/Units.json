@@ -11,7 +11,33 @@
         "cost": 25,
         "attackSound": "baka_baka_(M4A_128K).m4a",
         "requiredTech": "Archery",
-        "promotions": ["Logistics", "Accuracy I"]
+        "promotions": [
+            {
+                "name": "Logistics",
+                "description": "Allows movement after attacking.",
+                "effects": {
+                    "moveAfterAttack": true
+                }
+            },
+            {
+                "name": "Accuracy I",
+                "description": "Increases the accuracy of ranged attacks.",
+                "effects": {
+                    "rangedAccuracy": 10
+                }
+            },
+            {
+                "name": "Frostbite",
+                "description": "Deals additional damage with each attack, slowing the enemy.",
+                "effects": {
+                    "additionalDamage": 5,
+                    "slowEffect": true
+                }
+            }
+        ],
+        "civilopediaText": [
+            { "text": "Cirno is the proud leader of the ice fairies, renowned for her prowess in ranged combat. With her magical bow, she fires icy projectiles that can slow down her enemies, making her a formidable opponent on the battlefield." }
+        ]
     },
     {
         "name": "Cirno fan",
@@ -24,10 +50,26 @@
         "upgradesTo": "Cirno fan plus",
         "uniques": ["Ice Kingdom of Cirno"],
         "attackSound": "baka_baka_(M4A_128K).m4a",
-        "civilopediaText": [
-            { "text": "Silly fan" }
+        "requiredTech": "None",
+        "promotions": [
+            {
+                "name": "Berserker",
+                "description": "Increases damage in melee combat.",
+                "effects": {
+                    "meleeDamageBonus": 5
+                }
+            },
+            {
+                "name": "Ice Shield",
+                "description": "Provides additional defense against enemy attacks.",
+                "effects": {
+                    "defenseBonus": 3
+                }
+            }
         ],
-        "requiredTech": "None"
+        "civilopediaText": [
+            { "text": "The 'Cirno fan' is a brave warrior wielding an enchanted sword. His loyalty to the Kingdom of Cirno is unwavering, and his ability to deal damage in melee makes him a valuable ally in battle." }
+        ]
     },
     {
         "name": "Cirno fan plus",
@@ -41,15 +83,32 @@
         "uniques": ["Ice Kingdom of Cirno"],
         "attackSound": "baka_baka_(M4A_128K).m4a",
         "requiredTech": "Iron Working",
+        "promotions": [
+            {
+                "name": "Frost Slash",
+                "description": "Deals additional damage to enemy units and may cause freezing.",
+                "effects": {
+                    "additionalDamage": 7,
+                    "freezeEffect": true
+                }
+            },
+            {
+                "name": "Defensive Stance",
+                "description": "Increases defense when in a defensive position.",
+                "effects": {
+                    "defenseBonus": 5
+                }
+            }
+        ],
         "civilopediaText": [
-            { "text": "Fan more baka" }
+            { "text": "The 'Cirno fan plus' is an upgraded version of its predecessor, featuring advanced combat skills. Its 'Frost Slash' technique not only cuts but can also freeze enemies, making it a feared adversary in any clash." }
         ]
     },
     {
         "name": "Cirno fan plus ultra",
         "unitType": "Sword",
         "movement": 3,
-        "strength": 25, 
+        "strength": 25,
         "uniqueTo": "Ice Kingdom of Cirno",
         "replaces": "Longswordsman",
         "cost": 50,
@@ -57,8 +116,24 @@
         "uniques": ["Ice Kingdom of Cirno"],
         "attackSound": "baka_baka_(M4A_128K).m4a",
         "requiredTech": "Steel",
+        "promotions": [
+            {
+                "name": "Ice Fury",
+                "description": "Increases damage on critical hits, dealing more damage to enemies.",
+                "effects": {
+                    "criticalDamageBonus": 10
+                }
+            },
+            {
+                "name": "Unyielding",
+                "description": "Reduces damage taken in combat, improving survivability.",
+                "effects": {
+                    "damageReduction": 2
+                }
+            }
+        ],
         "civilopediaText": [
-            { "text": "Cirno accessed your mind" }
+            { "text": "The 'Cirno fan plus ultra' is the pinnacle of combat unit evolution in the Ice Kingdom of Cirno. With devastating power in critical hits and remarkable durability, it is a true champion on the battlefield." }
         ]
     }
 ]
