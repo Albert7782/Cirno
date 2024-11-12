@@ -7,7 +7,7 @@
 		"happiness": 19,
 		"culture": 20,
 		"science": 2,
-		"maintenance": 60,
+		"maintenance": 6,
 		"isNationalWonder": true,
 		"requiredBuildingInAllCities": "Colosseum",
 		"requiredTech": "Trapping"
@@ -17,6 +17,7 @@
 		"replaces": "Aqueduct",
 		"uniqueTo": "Ice Kingdom of Cirno",
 		"cost": 40,
+		"maintenance": 1,
 		"hurryCostModifier": 160,
 		"happiness": 29,
 		"uniques": ["Did you know? When a new citizen is born, 40% of the food gets carried over! That's pretty interesting!"],
@@ -27,6 +28,7 @@
 		"replaces": "Library"
 		"uniqueTo": "Ice Kingdom of Cirno",
 		"cost": 100,
+		"maintenance": 1,
 		"science": 20,
 		"culture": 15,
 		"requiredTech": "Writing"
@@ -35,9 +37,10 @@
                 "name": "Frozen Bazaar"
 		"replaces": "Market"
 		"uniqueTo": "Ice Kingdom of Cirno",
-		"cost": 120, 
+		"cost": 120,
+		"maintenance": 1,
 		"gold": 20,
-		"gold": 50,
+		"Happiness": 10,
 		"merchantslot": 10,
 		"requiredTech": "Currency"
         },
@@ -45,9 +48,10 @@
 		"name": "Frosty Fields" 
 		"replaces": "Granary"
 		"uniqueTo": "Ice Kingdom of Cirno"
-		"cost": 160, 
+		"cost": 160,
+		"maintenance": 1,
 		"food": 20,
-		"food": 5,
+		"Production": 5,
 		"requiredTech": "Pottery"
 	} 
         ] 
