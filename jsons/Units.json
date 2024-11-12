@@ -11,20 +11,6 @@
         "cost": 25,
         "attackSound": "baka_baka_(M4A_128K).m4a",
         "requiredTech": "Archery",
-        "promotions": [
-            {
-                "name": "Logistics",
-                "description": "Allows movement after attacking."
-            },
-            {
-                "name": "Accuracy I",
-                "description": "Increases the accuracy of ranged attacks."
-            },
-            {
-                "name": "Drill I",
-                "description": "Increases defensive strength."
-            }
-        ],
         "civilopediaText": [
             { "text": "Cirno is the proud leader of the ice fairies, renowned for her prowess in ranged combat." }
         ]
@@ -40,20 +26,6 @@
         "upgradesTo": "Cirno fan plus",
         "uniques": ["Ice Kingdom of Cirno"],
         "requiredTech": "None",
-        "promotions": [
-            {
-                "name": "Combat I",
-                "description": "Increases combat strength against land units."
-            },
-            {
-                "name": "Defensive",
-                "description": "Increases defense when on the defensive."
-            },
-            {
-                "name": "Drill I",
-                "description": "Increases defensive strength."
-            }
-        ],
         "civilopediaText": [
             { "text": "The 'Cirno fan' is a brave warrior wielding an enchanted sword." }
         ]
@@ -69,20 +41,6 @@
         "upgradesTo": "Cirno fan plus ultra",
         "uniques": ["Ice Kingdom of Cirno"],
         "requiredTech": "Iron Working",
-        "promotions": [
-            {
-                "name": "Shock",
-                "description": "Increases damage against units that are not in a defensive position."
-            },
-            {
-                "name": "Combat II",
-                "description": "Increases combat strength against land units."
-            },
-            {
-                "name": "Drill II",
-                "description": "Increases defensive strength."
-            }
-        ],
         "civilopediaText": [
             { "text": "The 'Cirno fan plus' is an upgraded version of its predecessor, featuring enhanced combat skills." }
         ]
@@ -98,20 +56,6 @@
         "upgradesTo": "Musketman",
         "uniques": ["Ice Kingdom of Cirno"],
         "requiredTech": "Steel",
-        "promotions": [
-            {
-                "name": "Combat III",
-                "description": "Increases combat strength against land units."
-            },
-            {
-                "name": "Drill III",
-                "description": "Increases defensive strength."
-            },
-            {
-                "name": "Cover",
-                "description": "Increased defense when in a defensive position."
-            }
-        ],
         "civilopediaText": [
             { "text": "The 'Cirno fan plus ultra' is the pinnacle of combat unit evolution in the Ice Kingdom of Cirno." }
         ]
