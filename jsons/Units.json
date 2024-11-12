@@ -66,7 +66,6 @@
         "cost": 50,
         "uniqueTo": "Ice Kingdom of Cirno",
         "replaces": "Worker",
-        "requiredTech": "Mining",
         "uniques": [
             "-25% construction time for all improvements.",
             "Can build land improvements on tiles."
