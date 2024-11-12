@@ -1,59 +1,61 @@
-        [
-	{
-		"name": "Cirno",
-		"unitType": "Ranged",
-		"uniqueTo": "Ice Kingdom of Cirno",
-		"replaces": "Archer",
-		"movement": 4,
-		"strength": 15,
-		"rangedStrength": 14,
-		"range": 4,
-		"cost": 20,
-		"attackSound": "baka_baka_(M4A_128K).m4a",
-		"requiredTech": "Archery",
-	        "promotions": ["Logistics","Accuracy I"],
-	},
-        {	
-	        "name": "Cirno fan",
-                "unitType": "Sword",
-                "movement": 6,
-                "strength": 15,
-                "uniqueTo": "Ice Kingdom of Cirno",
-                "replaces": "Warrior",
-                "cost": 40,
-                "upgradesTo": "Cirno fan plus",
-                "uniques": [ "Ice Kingdom of Cirno" ],
-                "attackSound": "baka_baka_(M4A_128K).m4a",
-                "civilopediaText": [
-              {  "text": "Silly fan" }
-        },
-        {
-		"name": "Cirno fan plus",
-                "unitType": "Sword",
-                "movement": 4,
-                "strength": 18,
-                "uniqueTo": "Ice Kingdom of Cirno",
-                "replaces": "Swordsman",
-                "cost": 45,
-                "upgradesTo": "Cirno fan plus ultra",
-                "uniques": [ "Ice Kingdom of Cirno" ],
-                "attackSound": "baka_baka_(M4A_128K).m4a",
-                "civilopediaText": [
-              { "text": "Fan more baka" }
-	},
-        {
-                "name": "Cirno fan plus ultra",
-                "unitType": "Sword",
-                "movement": 4,
-                "strength": 30,
-                "uniqueTo": "Ice Kingdom of Cirno",
-                "replaces": "Longswordsman",
-                "cost": 60,
-                "upgradesTo": "Cirno fan plus ultra max",
-                "uniques": [ "Ice Kingdom of Cirno" ],
-                "attackSound": "baka_baka_(M4A_128K).m4a",
-                "civilopediaText": [
-              { "text": "Cirno accessed your mind" }
+
+    {
+        "name": "Cirno",
+        "unitType": "Ranged",
+        "uniqueTo": "Ice Kingdom of Cirno",
+        "replaces": "Archer",
+        "movement": 4,
+        "strength": 15,
+        "rangedStrength": 14,
+        "range": 4,
+        "cost": 20,
+        "attackSound": "baka_baka_(M4A_128K).m4a",
+        "requiredTech": "Archery",
+        "promotions": ["Logistics", "Accuracy I"]
+    },
+    {
+        "name": "Cirno fan",
+        "unitType": "Sword",
+        "movement": 6,
+        "strength": 15,
+        "uniqueTo": "Ice Kingdom of Cirno",
+        "replaces": "Warrior",
+        "cost": 40,
+        "upgradesTo": "Cirno fan plus",
+        "uniques": ["Ice Kingdom of Cirno"],
+        "attackSound": "baka_baka_(M4A_128K).m4a",
+        "civilopediaText": [
+            { "text": "Silly fan" }
         ]
-
-
+    },
+    {
+        "name": "Cirno fan plus",
+        "unitType": "Sword",
+        "movement": 4,
+        "strength": 18,
+        "uniqueTo": "Ice Kingdom of Cirno",
+        "replaces": "Swordsman",
+        "cost": 45,
+        "upgradesTo": "Cirno fan plus ultra",
+        "uniques": ["Ice Kingdom of Cirno"],
+        "attackSound": "baka_baka_(M4A_128K).m4a",
+        "civilopediaText": [
+            { "text": "Fan more baka" }
+        ]
+    },
+    {
+        "name": "Cirno fan plus ultra",
+        "unitType": "Sword",
+        "movement": 4,
+        "strength": 30,
+        "uniqueTo": "Ice Kingdom of Cirno",
+        "replaces": "Longswordsman",
+        "cost": 60,
+        "upgradesTo": "Cirno fan plus ultra max",
+        "uniques": ["Ice Kingdom of Cirno"],
+        "attackSound": "baka_baka_(M4A_128K).m4a",
+        "civilopediaText": [
+            { "text": "Cirno accessed your mind" }
+        ]
+    }
+]
