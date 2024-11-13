@@ -21,7 +21,7 @@ BuildingIcons/Holodeck
 NationIcons/Ice Kingdom of Cirno
   rotate: false
   xy: 31, 22
-  size: 173, 177
+  size: 171, 180
   orig: 100, 100
   offset: 0, 0
   index: -1
