@@ -162,7 +162,7 @@
       "requiredTech": "Optics"
    },
    {
-	   "name": "Cirno Palace",
+"name": "Cirno Palace",
    	"uniqueTo": "Ice Kingdom of Cirno",
    	"isNationalWonder": true,
    	"production": 9,
