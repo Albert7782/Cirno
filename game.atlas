@@ -27,7 +27,7 @@ NationIcons/Ice Kingdom of Cirno
   index: -1
 UnitIcons/Cirno
   rotate: false
-  xy: 380, 22
+  xy: 383, 22
   size: 156, 175
   orig: 100, 100
   offset: 0, 0
