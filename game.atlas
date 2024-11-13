@@ -4,6 +4,7 @@ size: 100, 100
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
+
 NationIcons/game
   rotate: false
   xy: 4, 4
@@ -11,6 +12,7 @@ NationIcons/game
   orig: 100, 100
   offset: 0, 0
   index: -1
+
 UnitIcons/Cirno
   rotate: false
   xy: 328, 4
