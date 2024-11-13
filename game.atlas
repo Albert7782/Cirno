@@ -32,3 +32,11 @@ UnitIcons/Cirno
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Cirno fan
+  rotate: false
+  xy: 213, 22
+  size: 160, 180
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+
