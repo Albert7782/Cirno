@@ -25,10 +25,10 @@ NationIcons/Ice Kingdom of Cirno
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Phasers
+UnitIcons/Cirno
   rotate: false
-  xy: 328, 4
-  size: 100, 100
+  xy: 375, 22
+  size: 171, 180
   orig: 100, 100
   offset: 0, 0
   index: -1
