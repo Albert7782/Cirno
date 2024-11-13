@@ -160,5 +160,17 @@
           "[+3 Gold] from [Pearls] tiles [in this city]"
       ],
       "requiredTech": "Optics"
+   },
+   {
+	   "name": "Cirno Palace",
+   	"uniqueTo": "Ice Kingdom of Cirno",
+   	"isNationalWonder": true,
+   	"production": 9,
+	   "science": 9,
+   	"gold": 9,
+   	"culture": 3,
+   	"cityStrength": 6,
+   	"cost": 3,
+   	"uniques": ["Indicates the capital city"]
    }
-]
+
