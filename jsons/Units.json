@@ -1,1 +1,11 @@
-S
+[
+  {
+	"name": "Workirno",
+	"uniqueTo": "Ice Kingdom of Cirno",
+	"replaces": "Worker",
+	"unitType": "Civilian",
+	"movement": 2,
+	"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
+	"cost": 35
+  },
+  
