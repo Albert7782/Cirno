@@ -117,7 +117,7 @@
 	"strength": 100,
 	"cost": 160,
 	"requiredTech": "Replaceable Parts",
-	"upgradesTo": "Infantry",
+	"upgradesTo": "Cirinfan",
 	"obsoleteTech": "Plastics",
 	"attackSound": "shot",
 	"civilopediaText": [
@@ -125,13 +125,15 @@
 	]
 },
 {
-	"name": "Infantry",
+	"name": "Cirinfan",
+	"uniqueTo": "Ice Kingdom of Cirno",
+	"replaces": "Infantry" 
 	"unitType": "Gunpowder",
-	"movement": 2,
-	"strength": 60,
-	"cost": 400,
+	"movement": 3,
+	"strength": 120,
+	"cost": 200,
 	"requiredTech": "Plastics",
-	"upgradesTo": "Mechanized Infantry",
+	"upgradesTo": "Cirmech",
 	"obsoleteTech": "Computers",
 	"attackSound": "shot",
 	"civilopediaText": [
@@ -139,13 +141,15 @@
 	]
 },
 {
-	"name": "Mechanized Infantry",
+	"name": "Cirmech",
+	"uniqueTo": "Ice Kingdom of Cirno",
+	"replaces": "Mechanized Infantry" 
 	"unitType": "Modern",
 	"movement": 3,
-	"strength": 80,
-	"cost": 550,
+	"strength": 160,
+	"cost": 275,
 	"requiredTech": "Computers",
-	"upgradesTo": "Modern Armor",
+	"upgradesTo": "Cirmodern",
 	"obsoleteTech": "Nuclear Fission",
 	"attackSound": "shot",
 	"civilopediaText": [
@@ -153,13 +157,15 @@
 	]
 },
 {
-	"name": "Modern Armor",
+	"name": "Cirmodern",
+	"uniqueTo": "Ice Kingdom of Cirno",
+	"replaces": "Modern Armor", 
 	"unitType": "Armor",
 	"movement": 4,
-	"strength": 100,
-	"cost": 800,
+	"strength": 200,
+	"cost": 400,
 	"requiredTech": "Nuclear Fission",
-	"upgradesTo": "Giant Death Robot",
+	"upgradesTo": "DeathCir",
 	"obsoleteTech": "Nanotechnology",
 	"attackSound": "tankfire",
 	"civilopediaText": [
@@ -167,11 +173,13 @@
 	]
 },
 {
-	"name": "Giant Death Robot",
+	"name": "DeathCir",
+	"uniqueTo": "Ice Kingdom of Cirno",
+	"replaces": "Giant Death Robot", 
 	"unitType": "Mech",
 	"movement": 4,
-	"strength": 150,
-	"cost": 1200,
+	"strength": 300,
+	"cost": 600,
 	"requiredTech": "Nanotechnology",
 	"upgradesTo": null,
 	"obsoleteTech": null,
@@ -180,6 +188,7 @@
 		{"text": "The Giant Death Robot is a futuristic unit, towering over the battlefield and capable of devastating attacks."}
 	]
 }
+]
  
  
   
