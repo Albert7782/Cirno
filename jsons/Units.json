@@ -75,7 +75,49 @@
 	"civilopediaText": [
 		{"text": "The Longswordsman is a more advanced infantry unit, equipped with a longer blade for greater reach and power."}
 	]
-} 
+},
+{
+	"name": "Musketman",
+	"unitType": "Gunpowder",
+	"movement": 2,
+	"strength": 24,
+	"cost": 150,
+	"requiredTech": "Gunpowder",
+	"upgradesTo": "Rifleman",
+	"obsoleteTech": "Rifling",
+	"attackSound": "shot",
+	"civilopediaText": [
+		{"text": "Musketmen are the first infantry units to use gunpowder weapons, providing a significant advantage in battle."}
+	]
+},
+{
+	"name": "Rifleman",
+	"unitType": "Gunpowder",
+	"movement": 2,
+	"strength": 34,
+	"cost": 225,
+	"requiredTech": "Rifling",
+	"obsoleteTech": "Replaceable Parts",
+	"upgradesTo": "Great War Infantry",
+	"attackSound": "shot",
+	"civilopediaText": [
+		{"text": "Riflemen are well-trained soldiers armed with rifles, capable of delivering powerful ranged attacks."}
+	]
+},
+{
+	"name": "Great War Infantry",
+	"unitType": "Gunpowder",
+	"movement": 2,
+	"strength": 50,
+	"cost": 320,
+	"requiredTech": "Replaceable Parts",
+	"upgradesTo": "Infantry",
+	"obsoleteTech": "Plastics",
+	"attackSound": "shot",
+	"civilopediaText": [
+		{"text": "Great War Infantry represents the soldiers of the First World War, equipped with advanced firearms and tactics."}
+	]
+}
  
  
   
