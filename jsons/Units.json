@@ -8,4 +8,13 @@
 	"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
 	"cost": 35
   },
+  {
+	"name": "Warirno",
+	"uniqueTo": "Ice Kingdom of Cirno",
+	"replaces": "Warrior",
+	"unitType": "Military",
+	"movement": 2,
+	"uniques": ["Basic melee unit", "Effective against other melee units"],
+	"cost": 25
+  }
   
