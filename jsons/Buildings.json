@@ -172,6 +172,7 @@
       "gold": 9,
       "culture": 3,
       "cityStrength": 6,
+      "replaces": "Palace",
       "cost": 3,
       "uniques": ["Indicates the capital city"]
    },
@@ -182,6 +183,7 @@
       "food": 6,
       "production": 3,
       "hurryCostModifier": 25,
+      "replaces": "Water Mill", 
       "uniques": ["Must be on [River]"],
       "requiredTech": "The Wheel"
    }
