@@ -123,6 +123,62 @@
 	"civilopediaText": [
 		{"text": "Great War Infantry represents the soldiers of the First World War, equipped with advanced firearms and tactics."}
 	]
+},
+{
+	"name": "Infantry",
+	"unitType": "Gunpowder",
+	"movement": 2,
+	"strength": 60,
+	"cost": 400,
+	"requiredTech": "Plastics",
+	"upgradesTo": "Mechanized Infantry",
+	"obsoleteTech": "Computers",
+	"attackSound": "shot",
+	"civilopediaText": [
+		{"text": "Infantry units are the backbone of modern armies, equipped with a range of firearms and capable of performing various roles on the battlefield."}
+	]
+},
+{
+	"name": "Mechanized Infantry",
+	"unitType": "Modern",
+	"movement": 3,
+	"strength": 80,
+	"cost": 550,
+	"requiredTech": "Computers",
+	"upgradesTo": "Modern Armor",
+	"obsoleteTech": "Nuclear Fission",
+	"attackSound": "shot",
+	"civilopediaText": [
+		{"text": "Mechanized Infantry are advanced soldiers equipped with armored vehicles, providing enhanced mobility and protection."}
+	]
+},
+{
+	"name": "Modern Armor",
+	"unitType": "Armor",
+	"movement": 4,
+	"strength": 100,
+	"cost": 800,
+	"requiredTech": "Nuclear Fission",
+	"upgradesTo": "Giant Death Robot",
+	"obsoleteTech": "Nanotechnology",
+	"attackSound": "tankfire",
+	"civilopediaText": [
+		{"text": "Modern Armor represents the pinnacle of armored warfare, combining speed, firepower, and protection in a single unit."}
+	]
+},
+{
+	"name": "Giant Death Robot",
+	"unitType": "Mech",
+	"movement": 4,
+	"strength": 150,
+	"cost": 1200,
+	"requiredTech": "Nanotechnology",
+	"upgradesTo": null,
+	"obsoleteTech": null,
+	"attackSound": "robotattack",
+	"civilopediaText": [
+		{"text": "The Giant Death Robot is a futuristic unit, towering over the battlefield and capable of devastating attacks."}
+	]
 }
  
  
