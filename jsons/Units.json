@@ -21,7 +21,7 @@
 	"uniques": ["May upgrade to [Spearman] through ruins-like effects"],
 	"attackSound": "nonmetalhit",
 	"civilopediaText": [
-		{"text": "This is your basic, club-swinging fighter."}
+		{"text": "Cirno's Efficient Warrior"}
 	]
   },
   {
@@ -38,7 +38,7 @@
 	"uniques": ["[+50]% Strength <vs [Mounted] units>"],
 	"attackSound": "metalhit"
 	"civilopediaText": [
-		{"text": "The Spearman is a basic infantry unit that excels in defending against mounted units."}
+		{"text": "Equipped with ice lances"}
 	]
   },
   {
@@ -56,8 +56,8 @@
 	"hurryCostModifier": 20,
 	"attackSound": "metalhit",
 	"civilopediaText": [
-		{"text": "Swordsmen are the backbone of any army, wielding steel blades with skill and precision."}
-	]
+		{"text": "Ice Swords made by Cirno"}
+	] 
 },
 {
 	"name": "Cirswordman",
@@ -73,7 +73,7 @@
 	"requiredResource": "Iron",
 	"attackSound": "metalhit",
 	"civilopediaText": [
-		{"text": "The Longswordsman is a more advanced infantry unit, equipped with a longer blade for greater reach and power."}
+		{"text": "Ice Swords Better"}
 	]
 },
 {
@@ -89,7 +89,7 @@
 	"obsoleteTech": "Rifling",
 	"attackSound": "shot",
 	"civilopediaText": [
-		{"text": "Musketmen are the first infantry units to use gunpowder weapons, providing a significant advantage in battle."}
+		{"text": "Ice Guns"}
 	]
 },
 {
@@ -105,7 +105,7 @@
 	"upgradesTo": "Cirgreat",
 	"attackSound": "shot",
 	"civilopediaText": [
-		{"text": "Riflemen are well-trained soldiers armed with rifles, capable of delivering powerful ranged attacks."}
+		{"text": "Ice Rifles"}
 	]
 },
 {
@@ -121,7 +121,7 @@
 	"obsoleteTech": "Plastics",
 	"attackSound": "shot",
 	"civilopediaText": [
-		{"text": "Great War Infantry represents the soldiers of the First World War, equipped with advanced firearms and tactics."}
+		{"text": "Improved ice guns"}
 	]
 },
 {
@@ -137,7 +137,7 @@
 	"obsoleteTech": "Computers",
 	"attackSound": "shot",
 	"civilopediaText": [
-		{"text": "Infantry units are the backbone of modern armies, equipped with a range of firearms and capable of performing various roles on the battlefield."}
+		{"text": "Frozen Infantry"}
 	]
 },
 {
@@ -153,7 +153,7 @@
 	"obsoleteTech": "Nuclear Fission",
 	"attackSound": "shot",
 	"civilopediaText": [
-		{"text": "Mechanized Infantry are advanced soldiers equipped with armored vehicles, providing enhanced mobility and protection."}
+		{"text": "Ice?"}
 	]
 },
 {
@@ -169,7 +169,7 @@
 	"obsoleteTech": "Nanotechnology",
 	"attackSound": "tankfire",
 	"civilopediaText": [
-		{"text": "Modern Armor represents the pinnacle of armored warfare, combining speed, firepower, and protection in a single unit."}
+		{"text": "Modern Ice Armor"}
 	]
 },
 {
@@ -185,7 +185,7 @@
 	"obsoleteTech": null,
 	"attackSound": "robotattack",
 	"civilopediaText": [
-		{"text": "The Giant Death Robot is a futuristic unit, towering over the battlefield and capable of devastating attacks."}
+		{"text": "Death Frost Giant"}
 	]
 }
 ]
