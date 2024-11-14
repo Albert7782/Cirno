@@ -3,7 +3,7 @@
         "name": "Ice Kingdom of Cirno",
         "leaderName": "Cirno",
         "adjective": "Ice Kingdom of Cirno",
-        "startBias": ["Grassland"],
+        "startBias": ["Snow"],
         "preferredVictoryType": "Domination",
         
         "startIntroPart1": "I’m the strongest!!",
