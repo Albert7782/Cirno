@@ -85,7 +85,7 @@
 	"strength": 48,
 	"cost": 75,
 	"requiredTech": "Gunpowder",
-	"upgradesTo": "Rifleman",
+	"upgradesTo": "Cirfifle",
 	"obsoleteTech": "Rifling",
 	"attackSound": "shot",
 	"civilopediaText": [
@@ -93,25 +93,29 @@
 	]
 },
 {
-	"name": "Rifleman",
+	"name": "Cirfifle",
+	"uniqueTo": "Ice Kingdom of Cirno",
+	"replaces": "Rifleman", 
 	"unitType": "Gunpowder",
-	"movement": 2,
-	"strength": 34,
-	"cost": 225,
+	"movement": 3,
+	"strength": 68,
+	"cost": 112,
 	"requiredTech": "Rifling",
 	"obsoleteTech": "Replaceable Parts",
-	"upgradesTo": "Great War Infantry",
+	"upgradesTo": "Cirgreat",
 	"attackSound": "shot",
 	"civilopediaText": [
 		{"text": "Riflemen are well-trained soldiers armed with rifles, capable of delivering powerful ranged attacks."}
 	]
 },
 {
-	"name": "Great War Infantry",
+	"name": "Cirgreat",
+	"uniqueTo": "Ice Kingdom of Cirno",
+	"replaces": "Great War Infantry", 
 	"unitType": "Gunpowder",
-	"movement": 2,
-	"strength": 50,
-	"cost": 320,
+	"movement": 3,
+	"strength": 100,
+	"cost": 160,
 	"requiredTech": "Replaceable Parts",
 	"upgradesTo": "Infantry",
 	"obsoleteTech": "Plastics",
