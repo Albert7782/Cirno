@@ -30,12 +30,7 @@
         "outerColor": [101,154,176],
         "innerColor": [255,255,255],
         "uniqueName": "Snow Queen" 
-        "uniques": [
-        "Can spend Gold to annex or puppet a City-State that has been your ally for [5] turns",
-        "Receive triple Gold from Barbarian encampments and pillaging Citie.",
-        "Defense bonus when embarked for all units",
-        "Land units gain the Amphibious promotion"
-        ],
+        "uniques": ["[+20]% Production when constructing [All] wonders [in all cities]"],
 
         "cities": [
             "Ice blue", "Glaciara", "Frigidalia", "Snowstorm", "Frostyvale", "Heladia", 
