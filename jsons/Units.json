@@ -50,7 +50,7 @@
 	"strength": 28,
 	"cost": 37,
 	"requiredTech": "Iron Working",
-	"upgradesTo": "Longswordsman",
+	"upgradesTo": "Cirswordman",
 	"obsoleteTech": "Steel",
 	"requiredResource": "Iron",
 	"hurryCostModifier": 20,
@@ -58,7 +58,24 @@
 	"civilopediaText": [
 		{"text": "Swordsmen are the backbone of any army, wielding steel blades with skill and precision."}
 	]
-}
+},
+{
+	"name": "Cirswordman",
+	"uniqueTo": "Ice Kingdom of Cirno",
+	"replaces": "Longswordsman", 
+	"unitType": "Sword",
+	"movement": 3,
+	"strength": 42,
+	"cost": 60,
+	"requiredTech": "Steel",
+	"upgradesTo": "Musketman",
+	"obsoleteTech": "Gunpowder",
+	"requiredResource": "Iron",
+	"attackSound": "metalhit",
+	"civilopediaText": [
+		{"text": "The Longswordsman is a more advanced infantry unit, equipped with a longer blade for greater reach and power."}
+	]
+} 
  
  
   
