@@ -30,6 +30,7 @@
    {
       "name": "Cirno's Frosty Library",
       "uniqueTo": "Ice Kingdom of Cirno",
+      "gold": 6,
       "hurryCostModifier": 25,
       "replaces": "Library",
       "maintenance": 1,
@@ -41,6 +42,7 @@
       "name": "Cirno's Frosty Monument",
       "uniqueTo": "Ice Kingdom of Cirno",
       "culture": 6,
+      "science": 3,
       "cost": 40,
       "hurryCostModifier": 40,
       "replaces": "Monument",
@@ -112,6 +114,7 @@
       "uniqueTo": "Ice Kingdom of Cirno",
       "replaces": "Shrine",
       "faith": 3,
+      "culture": 2,
       "cost": 20,
       "maintenance": 1,
       "requiredTech": "Pottery",
