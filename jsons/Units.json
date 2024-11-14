@@ -195,7 +195,12 @@
     "cost": 600,
     "requiredTech": "Nanotechnology",
     "upgradesTo": null,
-    "uniques": ["[+33]% Strength <vs [Barbarian] units>"],
+    "uniques": [
+		"Can move after attacking",
+		"No defensive terrain bonus",
+		"Never appears as a Barbarian unit",
+	        "[+33]% Strength <vs [Barbarian] units>"
+	], 
     "obsoleteTech": null,
     "attackSound": "robotattack",
     "civilopediaText": [
