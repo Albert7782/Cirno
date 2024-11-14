@@ -4,7 +4,7 @@
 	"uniqueTo": "Ice Kingdom of Cirno",
 	"replaces": "Worker",
 	"unitType": "Civilian",
-	"movement": 2,
+	"movement": 3,
 	"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
 	"cost": 35
   },
@@ -14,7 +14,7 @@
         "replaces": "Warrior",
 	"unitType": "Sword",
 	"movement": 3,
-	"strength": 8,
+	"strength": 16,
 	"cost": 20,
 	"obsoleteTech": "Metal Casting",
 	"upgradesTo": "Swordsman",
@@ -23,5 +23,23 @@
 	"civilopediaText": [
 		{"text": "This is your basic, club-swinging fighter."}
 	]
-  }
+  },
+  {
+	"name": "Spearcir",
+	"uniqueTo": "ice Kingdom of Cirno",
+	"replaces": "Spearman", 
+	"unitType": "Sword",
+	"movement": 3,
+	"strength": 22,
+	"cost": 28,
+	"requiredTech": "Bronze Working",
+	"obsoleteTech": "Civil Service",
+	"upgradesTo": "Pikeman",
+	"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+	"attackSound": "metalhit"
+	"civilopediaText": [
+		{"text": "The Spearman is a basic infantry unit that excels in defending against mounted units."}
+	]
+  } 
+ 
   
