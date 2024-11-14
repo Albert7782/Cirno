@@ -17,7 +17,7 @@
 	"strength": 16,
 	"cost": 20,
 	"obsoleteTech": "Metal Casting",
-	"upgradesTo": "Swordsman",
+	"upgradesTo": "Cirsword",
 	"uniques": ["May upgrade to [Spearman] through ruins-like effects"],
 	"attackSound": "nonmetalhit",
 	"civilopediaText": [
@@ -40,6 +40,25 @@
 	"civilopediaText": [
 		{"text": "The Spearman is a basic infantry unit that excels in defending against mounted units."}
 	]
-  } 
+  },
+  {
+	"name": "Cirsword",
+	"uniqueTo": "Ice Kingdom of Cirno",
+	"replaces" "Swordsman", 
+	"unitType": "Sword",
+	"movement": 3,
+	"strength": 28,
+	"cost": 37,
+	"requiredTech": "Iron Working",
+	"upgradesTo": "Longswordsman",
+	"obsoleteTech": "Steel",
+	"requiredResource": "Iron",
+	"hurryCostModifier": 20,
+	"attackSound": "metalhit",
+	"civilopediaText": [
+		{"text": "Swordsmen are the backbone of any army, wielding steel blades with skill and precision."}
+	]
+}
+ 
  
   
