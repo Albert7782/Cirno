@@ -22,7 +22,7 @@
           "[+1 Food] from [Bananas] tiles [in this city]",
           "[+1 Food] from [Wheat] tiles [in this city]",
           "[+1 Food] from [Sugar] tiles [in this city]", 
-          "[+3 production] from [Cattle] tiles [in this city]"
+          "[+1 production] from [Cattle] tiles [in this city]"
       ],
       "requiredTech": "Pottery",
       "uniqueName": "Cirno's Granary"
@@ -34,7 +34,8 @@
       "hurryCostModifier": 25,
       "replaces": "Library",
       "maintenance": 1,
-      "uniques": ["[+6 Science] per [6] population [in this city]"],
+      "uniques": ["[+1 Science] per [2] population [in this city]",
+      "[+8 Science] per [6] population [in this city]"], 
       "requiredTech": "Writing",
       "uniqueName": "Cirno's Library"
    },
