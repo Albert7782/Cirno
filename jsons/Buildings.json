@@ -7,7 +7,8 @@
       "hurryCostModifier": 25,
       "percentStatBonus": { "gold": 75 },
       "replaces": "Market",
-      "requiredTech": "Currency"
+      "requiredTech": "Currency",
+      "uniqueName": "Cirno's Market"
    },
    {
       "name": "Cirno's Frosty Granary",
@@ -22,7 +23,8 @@
           "[+1 Food] from [Wheat] tiles [in this city]",
           "[+1 Food] from [Sugar] tiles [in this City]"
       ],
-      "requiredTech": "Pottery"
+      "requiredTech": "Pottery",
+      "uniqueName": "Cirno's Granary"
    },
    {
       "name": "Cirno's Frosty Library",
@@ -31,7 +33,8 @@
       "replaces": "Library",
       "maintenance": 1,
       "uniques": ["[+6 Science] per [6] population [in this city]"],
-      "requiredTech": "Writing"
+      "requiredTech": "Writing",
+      "uniqueName": "Cirno's Library"
    },
    {
       "name": "Cirno's Frosty Monument",
@@ -41,19 +44,21 @@
       "hurryCostModifier": 40,
       "replaces": "Monument",
       "maintenance": 1,
-      "uniques": ["Destroyed when the city is captured"]
+      "uniques": ["Destroyed when the city is captured"],
+      "uniqueName": "Cirno's Monument"
    },
    {
-	   "name": "Barracks",
-	   "uniqueTo": "Ice Kingdom of Cirno",
-	   "hurryCostModifier": 25,
-	   "maintenance": 1,
-	   "uniques": [
-		"New [Military] units start with [15] Experience [in this city]",
-		"New [Military] units start with [45] Experience [in this city]",
-		"Destroyed when the city is captured"
-	],
-	   "requiredTech": "Bronze Working"
+      "name": "Barracks",
+      "uniqueTo": "Ice Kingdom of Cirno",
+      "hurryCostModifier": 25,
+      "maintenance": 1,
+      "uniques": [
+         "New [Military] units start with [15] Experience [in this city]",
+         "New [Military] units start with [45] Experience [in this city]",
+         "Destroyed when the city is captured"
+      ],
+      "requiredTech": "Bronze Working",
+      "uniqueName": "Cirno's Barracks"
    },
    {
       "name": "Cirno's Frosty Circus",
@@ -63,7 +68,8 @@
       "cost": 37,
       "hurryCostModifier": 25,
       "replaces": "Circus",
-      "requiredTech": "Trapping"
+      "requiredTech": "Trapping",
+      "uniqueName": "Cirno's Circus"
    },
    {
       "name": "Cirno's Frosty Colosseum",
@@ -73,7 +79,8 @@
       "hurryCostModifier": 25,
       "replaces": "Colosseum",
       "maintenance": 2,
-      "requiredTech": "Construction"
+      "requiredTech": "Construction",
+      "uniqueName": "Cirno's Colosseum"
    },
    {
       "name": "Cirno's Frosty Aqueduct",
@@ -83,7 +90,8 @@
       "replaces": "Aqueduct",
       "maintenance": 1,
       "uniques": ["Allows cities to grow beyond [Size 6]"],
-      "requiredTech": "Construction"
+      "requiredTech": "Construction",
+      "uniqueName": "Cirno's Aqueduct"
    },
    {
       "name": "Cirno's Frosty Amphitheater",
@@ -94,7 +102,8 @@
       "hurryCostModifier": 25,
       "replaces": "Amphitheater",
       "maintenance": 2,
-      "requiredTech": "Drama and Poetry"
+      "requiredTech": "Drama and Poetry",
+      "uniqueName": "Cirno's Amphitheater"
    },
    {
       "name": "Cirno's Frosty Shrine",
@@ -104,7 +113,8 @@
       "cost": 20,
       "maintenance": 1,
       "requiredTech": "Pottery",
-      "uniques": ["Only available <when religion is enabled>"]
+      "uniques": ["Only available <when religion is enabled>"],
+      "uniqueName": "Cirno's Shrine"
    },
    {
       "name": "Cirno's Frosty Workshop",
@@ -115,7 +125,8 @@
       "specialistSlots": { "Engineer": 3 },
       "hurryCostModifier": 25,
       "percentStatBonus": { "production": 30 },
-      "requiredTech": "Metal Casting"
+      "requiredTech": "Metal Casting",
+      "uniqueName": "Cirno's Workshop"
    },
    {
       "name": "Cirno's Frosty Forge",
@@ -130,7 +141,8 @@
           "[+15]% Production when constructing [Spaceship part] units [in this city]",
           "[+15]% Production when constructing [Land] units [in this city]",
           "[+1 Production] from [Iron] tiles [in this city]"
-      ]
+      ],
+      "uniqueName": "Cirno's Forge"
    },
    {
       "name": "Cirno's Frosty Temple",
@@ -145,7 +157,8 @@
       "uniques": [
           "Only available <when religion is enabled>",
           "Destroyed when the city is captured"
-      ]
+      ],
+      "uniqueName": "Cirno's Temple"
    },
    {
       "name": "Cirno's Frosty Lighthouse",
@@ -161,7 +174,8 @@
           "[+1 Food] from [Fish] tiles [in this city]",
           "[+1 Gold] from [Pearls] tiles [in this city]"
       ],
-      "requiredTech": "Optics"
+      "requiredTech": "Optics",
+      "uniqueName": "Cirno's Lighthouse"
    },
    {
       "name": "Cirno Palace",
@@ -174,10 +188,11 @@
       "cityStrength": 6,
       "replaces": "Palace",
       "cost": 3,
-      "uniques": ["Indicates the capital city"]
+      "uniques": ["Indicates the capital city"],
+      "uniqueName": "Cirno's Palace"
    },
    {
-      "name": "Cirno water Mill",
+      "name": "Cirno's Water Mill",
       "uniqueTo": "Ice Kingdom of Cirno",
       "maintenance": 2,
       "food": 6,
@@ -185,8 +200,7 @@
       "hurryCostModifier": 25,
       "replaces": "Water Mill", 
       "uniques": ["Must be on [River]"],
-      "requiredTech": "The Wheel"
+      "requiredTech": "The Wheel",
+      "uniqueName": "Cirno's Water Mill"
    }
-] 
-	
-
+]
