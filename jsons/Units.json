@@ -44,7 +44,7 @@
   {
 	"name": "Cirsword",
 	"uniqueTo": "Ice Kingdom of Cirno",
-	"replaces" "Swordsman", 
+	"replaces": "Swordsman", 
 	"unitType": "Sword",
 	"movement": 3,
 	"strength": 28,
