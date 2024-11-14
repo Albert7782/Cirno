@@ -31,9 +31,8 @@
         "innerColor": [255,255,255],
         "uniqueName": "Snow Queen",
         "uniques": ["[+20]% Production when constructing [All] wonders [in all cities]",
-            "[+3 Faith] [in all cities] <with [1] to [2] neighboring [{unimproved} {Snow}] tiles>",
-            "[+6 Faith] [in all cities] <with [3] to [6] neighboring [{unimproved} {Snow}] tiles>"],
-
+            "[-25]% construction time for [All] improvements"
+                
         "cities": [
             "Ice blue", "Glaciara", "Frigidalia", "Snowstorm", "Frostyvale", "Heladia", 
             "Ice Rivers", "Cold Aurora", "Frosthaven", "Freezeport", "Borealis", 
