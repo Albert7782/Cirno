@@ -156,10 +156,10 @@
       "maintenance": 1,
       "uniques": [
           "Must be next to [Coast]",
-          "[+3 Food] from [Ocean] tiles [in this city]",
-          "[+3 Food] from [Coast] tiles [in this city]",
-          "[+4 Food] from [Fish] tiles [in this city]",
-          "[+3 Gold] from [Pearls] tiles [in this city]"
+          "[+1 Food] from [Ocean] tiles [in this city]",
+          "[+1 Food] from [Coast] tiles [in this city]",
+          "[+1 Food] from [Fish] tiles [in this city]",
+          "[+1 Gold] from [Pearls] tiles [in this city]"
       ],
       "requiredTech": "Optics"
    },
@@ -174,5 +174,17 @@
       "cityStrength": 6,
       "cost": 3,
       "uniques": ["Indicates the capital city"]
+   },
+   {
+      "name": "Cirno water Mill",
+      "uniqueTo": "Ice Kingdom of Cirno",
+      "maintenance": 2,
+      "food": 6,
+      "production": 3,
+      "hurryCostModifier": 25,
+      "uniques": ["Must be on [River]"],
+      "requiredTech": "The Wheel"
    }
+] 
+	
 
