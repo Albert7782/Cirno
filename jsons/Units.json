@@ -206,5 +206,36 @@
     "civilopediaText": [
       {"text": "Death Frost Giant"}
     ]
+  },
+  {
+	"name": "Cirno Chibi",
+	"uniqueTo": "Ice Kingdom of Cirno",
+	"replaces": "Archer", 
+	"unitType": "Archery",
+	"movement": 3,
+	"strength": 10,
+	"rangedStrength": 7,
+	"cost": 20,
+	"requiredTech": "Archery",
+	"obsoleteTech": "Construction",
+	"upgradesTo": "Cirno",
+	"attackSound": "arrow"
+  },
+  {
+	"name": "Cirno",
+	"uniqueTo": "Ice Kingdom of Cirno",
+	"replaces": "Composite Bowman", 
+	"unitType": "Archery",
+	"movement": 3,
+	"strength": 14,
+	"rangedStrength": 11,
+	"cost": 37,
+	"requiredTech": "Construction",
+	"obsoleteTech": "Machinery",
+	"upgradesTo": "Crossbowman",
+	"uniques": [],
+	"attackSound": "arrow"
   }
-]
+] 
+
+
