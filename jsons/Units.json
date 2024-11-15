@@ -232,9 +232,22 @@
 	"cost": 37,
 	"requiredTech": "Construction",
 	"obsoleteTech": "Machinery",
-	"upgradesTo": "Crossbowman",
-	"uniques": [],
+	"upgradesTo": "Cirno Fumo",
+	"uniques": ["[+33]% Strength <vs [Barbarian] units>"],
 	"attackSound": "arrow"
+  },
+  {
+	"name": "Cirno Fumo",
+	"unitType": "Archery",
+	"movement": 3,
+	"strength": 26,
+	"rangedStrength": 18,
+	"cost": 60,
+	"requiredTech": "Machinery",
+	"upgradesTo": "Gatling Gun",
+	"obsoleteTech": "Industrialization",
+	"uniques": ["[+33]% Strength <vs [Barbarian] units>"],
+	"attackSound": "crossbow"
   }
 ] 
 
