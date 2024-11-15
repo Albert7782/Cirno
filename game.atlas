@@ -1,6 +1,6 @@
 
 game.png
-size: 220, 248
+size: 2048, 516
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
@@ -20,8 +20,8 @@ BuildingIcons/Holodeck
   index: -1
 NationIcons/Ice Kingdom of Cirno
   rotate: false
-  xy: 37, 22
-  size: 152, 175
+  xy: 38, 122
+  size: 545, 253
   orig: 100, 100
   offset: 0, 0
   index: -1
