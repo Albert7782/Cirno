@@ -60,7 +60,7 @@ BuildingIcons/Bank
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Barracks
+BuildingIcons/Cirno Barracks
   rotate: false
   xy: 428, 1596
   size: 100, 100
@@ -144,7 +144,7 @@ BuildingIcons/Chichen Itza
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Circus
+BuildingIcons/Cirno's Frosty Circus
   rotate: false
   xy: 190, 624
   size: 100, 100
@@ -249,7 +249,7 @@ BuildingIcons/Garden
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Granary
+BuildingIcons/Cirno's Frosty Granary
   rotate: false
   xy: 514, 430
   size: 100, 100
@@ -382,7 +382,7 @@ BuildingIcons/Leaning Tower of Pisa
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Library
+BuildingIcons/Cirno's Frosty Library
   rotate: false
   xy: 1280, 1804
   size: 100, 100
@@ -417,7 +417,7 @@ BuildingIcons/Manhattan Project
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Market
+BuildingIcons/Cirno's Frosty Market
   rotate: false
   xy: 1184, 1696
   size: 100, 100
@@ -466,7 +466,7 @@ BuildingIcons/Monastery
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Monument
+BuildingIcons/Cirno's Frosty Monument
   rotate: false
   xy: 1400, 1480
   size: 100, 100
