@@ -25,18 +25,25 @@ NationIcons/Ice Kingdom of Cirno
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Cirno
+UnitIcons/Cirno Chibi
   rotate: false
-  xy: 206, 22
-  size: 156, 175
+  xy: 1167, 122
+  size: 219, 239
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Cirno fan
+UnitIcons/Cirno
+  rotate: false
+  xy: 219, 122
+  size: 160, 180
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Cirno Fumo
   rotate: false
   xy: 384, 22
   size: 160, 180
   orig: 100, 100
   offset: 0, 0
-  index: -1
+  index: -1 
 
