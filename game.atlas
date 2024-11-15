@@ -34,15 +34,15 @@ UnitIcons/Cirno Chibi
   index: -1
 UnitIcons/Cirno
   rotate: false
-  xy: 219, 122
-  size: 160, 180
+  xy: 1469, 122
+  size: 233, 342
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Cirno Fumo
   rotate: false
-  xy: 384, 22
-  size: 160, 180
+  xy: 1765, 72
+  size: 223, 369
   orig: 100, 100
   offset: 0, 0
   index: -1 
